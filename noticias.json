@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "noticia-001",
+    "updateDate": "2026-06-12T06:00:00.0Z",
+    "titleText": "Politica",
+    "mainText": "El Congreso aprobo hoy una nueva ley de presupuesto nacional para el año 2027, con enfasis en educacion y salud publica.",
+    "streamUrl": "",
+    "redirectionUrl": "https://elcomercio.pe"
+  },
+  {
+    "uid": "noticia-002",
+    "updateDate": "2026-06-12T06:00:00.0Z",
+    "titleText": "Economia",
+    "mainText": "El Banco Central reporto que la inflacion se mantiene estable en 2.3 por ciento, por debajo del promedio regional.",
+    "streamUrl": "",
+    "redirectionUrl": "https://elcomercio.pe"
+  },
+  {
+    "uid": "noticia-003",
+    "updateDate": "2026-06-12T06:00:00.0Z",
+    "titleText": "Deportes",
+    "mainText": "La seleccion peruana de futbol venció dos a cero en partido amistoso y se prepara para las proximas eliminatorias.",
+    "streamUrl": "",
+    "redirectionUrl": "https://elcomercio.pe"
+  }
+]
