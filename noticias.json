@@ -1,23 +1,37 @@
 [
   {
-    "uid": "noticia-010",
-    "updateDate": "2026-06-12T06:00:00.0Z",
+    "uid": "noticia-001",
+    "updateDate": "2026-06-12T18:44:19.0Z",
     "titleText": "Politica",
-    "mainText": "El Congreso aprobo hoy una nueva ley de presupuesto nacional para el año 2027, con enfasis en educacion y salud publica.",
-    "redirectionUrl": "https://elcomercio.pe"
+    "mainText": "Politica. Roberto Sánchez invoca a Keiko Fujimori a solicitar juntos un \"reconteo\" de votos de actas con presuntas irregularidades. Además, representantes de Juntos por el Perú cuestionaron la \"cadena de custodia\" de actas procedentes de Argentina y la modificación interna de una normativa de ONPE relacionada a la obligatoriedad de digitalización de actas del extranjero.",
+    "redirectionUrl": "https://rpp.pe/politica/elecciones/roberto-sanchez-invoca-a-keiko-fujimori-a-solicitar-juntos-un-reconteo-de-votos-de-actas-con-presuntas-irregularidades-noticia-1692769"
   },
   {
     "uid": "noticia-002",
-    "updateDate": "2026-06-12T06:00:00.0Z",
+    "updateDate": "2026-06-12T18:44:19.0Z",
     "titleText": "Economia",
-    "mainText": "El Banco Central reporto que la inflacion se mantiene estable en 2.3 por ciento, por debajo del promedio regional.",
-    "redirectionUrl": "https://elcomercio.pe"
+    "mainText": "Economia. Peruanos celebrarán el Día del Padre sin endeudarse: siete de cada 10 comprarán regalos con pagos al contado. Un estudio de la USIL revela que el 51,5% de los consumidores utilizará efectivo o tarjeta de débito para comprar regalos por el Día del Padre y un 15% pagará con Yape o Plin. Además, el gasto más frecuente será entre S/100 y S/200, reflejando una campaña marcada por el control financiero y la búsqueda de productos útiles.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/dia-del-padre-2026-siete-de-cada-diez-peruanos-compraran-regalos-con-efectivo-debito-y-billeteras-digitales-noticia-1692772"
   },
   {
     "uid": "noticia-003",
-    "updateDate": "2026-06-12T06:00:00.0Z",
-    "titleText": "Deportes",
-    "mainText": "La seleccion peruana de futbol vencio dos a cero en partido amistoso y se prepara para las proximas eliminatorias.",
-    "redirectionUrl": "https://elcomercio.pe"
+    "updateDate": "2026-06-12T18:44:19.0Z",
+    "titleText": "Tecnologia",
+    "mainText": "Tecnologia. Facebook e Instagram sufren caída global: usuarios reportan fallas en las redes sociales de Meta. Distintos usuarios han reportado fallas para poder acceder a sus cuentas en Facebook e Instagram.",
+    "redirectionUrl": "https://rpp.pe/tecnologia/redes-sociales/facebook-e-instagram-sufren-caida-global-usuarios-reportan-fallas-en-las-redes-sociales-de-meta-noticia-1692732"
+  },
+  {
+    "uid": "noticia-004",
+    "updateDate": "2026-06-12T18:44:19.0Z",
+    "titleText": "Mundo y Mundial",
+    "mainText": "Mundo y Mundial. En qué canales ver Canadá vs. Bosnia-Herzegovina y aqué hora juegan por el Grupo B del Mundial. Consulta los canales de TV y plataformas online para ver el partido entre Canadá vs Bosnia-Herzegovina el viernes 12 de junio por fecha 1 del grupoB del Mundial 2026 desde el Estadio Toronto.",
+    "redirectionUrl": "https://elcomercio.pe/deporte-total/futbol-mundial/en-que-canales-tv-transmiten-canada-vs-bosnia-herzegovina-en-vivo-gratis-hoy-por-mundial-2026-a-que-hora-juegan-y-donde-ver-online-streaming-noticia/"
+  },
+  {
+    "uid": "noticia-005",
+    "updateDate": "2026-06-12T18:44:19.0Z",
+    "titleText": "Gastronomia",
+    "mainText": "Gastronomia. Premios Somos 2026: lista completa de nominados. Premios Somos 2026 nominados | ¡Abrimos las votaciones para la nueva edición de los premios gastronómicos de El Comercio! Conoce en esta nota qué restaurantes están en competencias y elige a tus favoritos.",
+    "redirectionUrl": "https://elcomercio.pe/somos/gastronomia/premios-somos-2026-lista-completa-de-nominados-como-votar-noticia/"
   }
 ]
