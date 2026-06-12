@@ -1,0 +1,22 @@
+# Token y configuración sensible — NUNCA subir
+.env
+
+# Código Python — solo los JSONs van al repo público
+*.py
+scrapers/
+skills/
+__pycache__/
+*.pyc
+
+# Entorno virtual
+venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Dependencias (solo uso local)
+requirements.txt
+
+# JSON antiguo (un solo feed, reemplazado por los 5 nuevos)
+noticias.json
