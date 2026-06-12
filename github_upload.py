@@ -3,7 +3,7 @@ import base64
 import requests
 from datetime import datetime
 
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "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"
 GITHUB_REPO  = "edaviok1301/alexa-noticias"
 
 def subir_archivo(nombre_archivo, contenido_json):
