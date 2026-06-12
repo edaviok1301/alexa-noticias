@@ -1,23 +1,37 @@
 [
   {
-    "uid": "noticia-010",
-    "updateDate": "2026-06-12T06:00:00.0Z",
+    "uid": "noticia-001",
+    "updateDate": "2026-06-12T18:14:31.0Z",
     "titleText": "Politica",
-    "mainText": "El Congreso aprobo hoy una nueva ley de presupuesto nacional para el año 2027, con enfasis en educacion y salud publica.",
-    "redirectionUrl": "https://elcomercio.pe"
+    "mainText": "Politica. Revisa en vivo y en tiempo real el conteo de actas con los resultados de la Segunda Vuelta Presidencial. Al día de hoy, Keiko Fujimori lidera ligeramente el escrutinio ante Roberto Sánchez.",
+    "redirectionUrl": "https://rpp.pe/politica/elecciones/resultados-onpe-en-vivo-segunda-vuelta-2026-hoy-conteo-de-votos-actualizado-keiko-fujimori-y-roberto-sanchez-elecciones-peru-noticia-1692520"
   },
   {
     "uid": "noticia-002",
-    "updateDate": "2026-06-12T06:00:00.0Z",
+    "updateDate": "2026-06-12T18:14:31.0Z",
     "titleText": "Economia",
-    "mainText": "El Banco Central reporto que la inflacion se mantiene estable en 2.3 por ciento, por debajo del promedio regional.",
-    "redirectionUrl": "https://elcomercio.pe"
+    "mainText": "Economia. Un estudio de la USIL revela que el 51,5% de los consumidores utilizará efectivo o tarjeta de débito para comprar regalos por el Día del Padre y un 15% pagará con Yape o Plin. Además, el gasto más frecuente será entre S/100 y S/200, reflejando una campaña marcada por el control financiero y la búsqueda de productos útiles.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/dia-del-padre-2026-siete-de-cada-diez-peruanos-compraran-regalos-con-efectivo-debito-y-billeteras-digitales-noticia-1692772"
   },
   {
     "uid": "noticia-003",
-    "updateDate": "2026-06-12T06:00:00.0Z",
-    "titleText": "Deportes",
-    "mainText": "La seleccion peruana de futbol vencio dos a cero en partido amistoso y se prepara para las proximas eliminatorias.",
-    "redirectionUrl": "https://elcomercio.pe"
+    "updateDate": "2026-06-12T18:14:31.0Z",
+    "titleText": "Tecnologia",
+    "mainText": "Tecnologia. Distintos usuarios han reportado fallas para poder acceder a sus cuentas en Facebook e Instagram.",
+    "redirectionUrl": "https://rpp.pe/tecnologia/redes-sociales/facebook-e-instagram-sufren-caida-global-usuarios-reportan-fallas-en-las-redes-sociales-de-meta-noticia-1692732"
+  },
+  {
+    "uid": "noticia-004",
+    "updateDate": "2026-06-12T18:14:31.0Z",
+    "titleText": "Mundo",
+    "mainText": "Mundo. El vuelo de Iberia que debía despegar desde el Aeropuerto Tenerife Norte con el papa se ha retrasado por problemas técnicos; sin embargo, León XIV finalmente viajará a Roma en el falcon en el que Rey Felipe VI tenía previsto regresar a Madrid. El sumo pontífice regresa a Italia tras su paso por España.",
+    "redirectionUrl": "https://rpp.pe/mundo/actualidad/leon-xiv-incidencia-tecnica-retrasa-salida-del-avion-del-papa-en-espana-y-volvera-a-roma-en-vuelo-ofrecido-por-felipe-vi-noticia-1692766"
+  },
+  {
+    "uid": "noticia-005",
+    "updateDate": "2026-06-12T18:14:31.0Z",
+    "titleText": "Gastronomia",
+    "mainText": "Gastronomia. Premios Somos 2026 nominados | ¡Abrimos las votaciones para la nueva edición de los premios gastronómicos de El Comercio! Conoce en esta nota qué restaurantes están en competencias y elige a tus favoritos.",
+    "redirectionUrl": "https://elcomercio.pe/somos/gastronomia/premios-somos-2026-lista-completa-de-nominados-como-votar-noticia/"
   }
 ]
