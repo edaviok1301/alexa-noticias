@@ -1,30 +1,23 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-06-13T04:30:20.0Z",
+    "updateDate": "2026-06-15T04:27:38.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Gobierno evalúa elevar el Impuesto Selectivo al Consumo y reducir el ‘drawback’. Medidas se darían a semanas del cambio de gobierno. Gremios empresariales señalaron que se afectarían distintos sectores como consumo y exportaciones.",
-    "redirectionUrl": "https://elcomercio.pe/economia/gobierno-evalua-elevar-el-impuesto-selectivo-al-consumo-y-reducir-el-drawback-noticia/"
+    "mainText": "Economía. Precio del dólar en Perú: consulta la cotización en compra y venta del lunes 15 de junio. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 15 de junio. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-2026-a-cuanto-esta-el-dolar-este-lunes-15-de-junio-tipo-de-cambio-segun-el-bcrp-sunat-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-06-13T04:30:20.0Z",
+    "updateDate": "2026-06-15T04:27:38.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Trabajadores CAS recibirán gratificación y CTS desde este año, pero solo el 10%: Gobierno plantea pago progresivo hasta el 2030. El Ejecutivo confirma que los trabajadores CAS podrán recibir gratificación y CTS desde este año, pero plantea que el monto sea escalonado debido a que una aplicación inmediata tendría un costo fiscal superior a los S/ 3.000 millones y podría generar problemas de financiamiento en las entidades públicas.",
-    "redirectionUrl": "https://rpp.pe/economia/economia/gratificacion-y-cts-a-trabajadores-cas-cuanto-recibirian-propuesta-del-gobierno-de-pago-progresivo-hasta-2030-noticia-1692841"
+    "mainText": "Economía. Petróleo cae alrededor de 4% por anuncio de acuerdo entre Irán y EE. UU.. Los precios del petróleo caen un 4% tras el acuerdo entre EE.UU. e Irán para finalizar el conflicto en Oriente Medio y reabrir el estrecho de Ormuz",
+    "redirectionUrl": "http://peru21.pe/economia/petroleo-cae-alrededor-de-4-por-anuncio-de-acuerdo-entre-iran-y-ee-uu/"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-06-13T04:30:20.0Z",
+    "updateDate": "2026-06-15T04:27:38.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Presidente Balcázar quiere aumentar impuestos antes de irse. Gobierno que está de salida alista decreto supremo con cambios tributarios | Impuesto | Impuesto selectivo al Consumo | Economía | Perú",
-    "redirectionUrl": "http://peru21.pe/economia/presidente-balcazar-quiere-aumentar-impuestos-antes-de-irse/"
-  },
-  {
-    "uid": "economia-004",
-    "updateDate": "2026-06-13T04:30:20.0Z",
-    "titleText": "Economía",
-    "mainText": "Economía. Coca Cola vs. una orquesta de cumbia peruana ante Indecopi: ¿qué desató el conflicto?. The Coca-Cola Company inició un proceso ante Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual contra una orquesta de cumbia peruana por presunta infracción de marca. La multinacional cuestiona el uso de elementos gráficos similares a COCA-COLA, mientras que los denunciados defienden la legalidad de su signo en el ámbito musical. Conozca los detalles de",
-    "redirectionUrl": "https://gestion.pe/economia/empresas/coca-cola-enfrenta-a-orquesta-de-cumbia-peruana-ante-indecopi-que-origino-el-conflicto-noticia/"
+    "mainText": "Economía. Sunat amplía plazo para presentar este reporte: ahora habrá oportunidad hasta octubre. Sunat prorrogó hasta octubre de 2026 la presentación del Reporte Local correspondiente al ejercicio 2025 para adecuar el formulario a cambios normativos.",
+    "redirectionUrl": "https://gestion.pe/economia/sunat-amplia-plazo-para-presentar-este-reporte-ahora-habra-oportunidad-hasta-octubre-noticia/"
   }
 ]
