@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-06-15T04:30:22.0Z",
+    "updateDate": "2026-06-16T04:30:28.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar en Perú: consulta la cotización en compra y venta del lunes 15 de junio. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 15 de junio. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-2026-a-cuanto-esta-el-dolar-este-lunes-15-de-junio-tipo-de-cambio-segun-el-bcrp-sunat-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Julio Velarde, presidente del BCR: El Perú tiene “un crecimiento pálido”, en medio de una bonanza de precios de metales. El presidente del BCR comentó que en escenarios similares el país debería crecer mucho más. Además, resaltó que gracias al superávit, se puede realizar una fuerte inversión pública.",
+    "redirectionUrl": "https://elcomercio.pe/economia/peru/julio-velarde-presidente-del-bcr-el-peru-tiene-un-crecimiento-palido-en-medio-de-una-bonanza-de-precios-de-metales-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-06-15T04:30:22.0Z",
+    "updateDate": "2026-06-16T04:30:28.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Petróleo cae alrededor de 4% por anuncio de acuerdo entre Irán y EE. UU.. Los precios del petróleo caen un 4% tras el acuerdo entre EE.UU. e Irán para finalizar el conflicto en Oriente Medio y reabrir el estrecho de Ormuz",
-    "redirectionUrl": "http://peru21.pe/economia/petroleo-cae-alrededor-de-4-por-anuncio-de-acuerdo-entre-iran-y-ee-uu/"
+    "mainText": "Economía. Petroperú empezará a recibir financiamiento desde junio: Proinversión habilitará primer tramo de US$ 500 millones este mes. Luis del Carpio señaló que los recursos permitirán financiar la compra de crudo y garantizar la operación de las refinerías, mientras avanza el proceso para incorporar capital privado en la empresa estatal. Este forma parte del préstamo de hasta US$ 2.000 millones previstos para Petroperú.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/petroperu-recibira-500-millones-dolares-desde-cuando-proinversion-habilita-primer-tramo-de-financiamiento-noticia-1693195"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-06-15T04:30:22.0Z",
+    "updateDate": "2026-06-16T04:30:28.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Sunat amplía plazo para presentar este reporte: ahora habrá oportunidad hasta octubre. Sunat prorrogó hasta octubre de 2026 la presentación del Reporte Local correspondiente al ejercicio 2025 para adecuar el formulario a cambios normativos.",
-    "redirectionUrl": "https://gestion.pe/economia/sunat-amplia-plazo-para-presentar-este-reporte-ahora-habra-oportunidad-hasta-octubre-noticia/"
+    "mainText": "Economía. Julio Velarde: “Estamos teniendo un crecimiento relativamente pálido”. Julio Velarde del BCR destaca el crecimiento económico pálido de Perú pese a altos precios de metales y resalta el impacto del acuerdo de paz entre EE.UU. e Irán",
+    "redirectionUrl": "http://peru21.pe/economia/julio-velarde-estamos-teniendo-un-crecimiento-relativamente-palido/"
+  },
+  {
+    "uid": "economia-004",
+    "updateDate": "2026-06-16T04:30:28.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Perú juega en el Mundial de las apuestas: lidera la región pese a no clasificar. La ausencia de Perú en el Mundial podría sugerir un menor entusiasmo de los aficionados locales por el torneo. Sin embargo, los datos muestran un escenario distinto. Lejos de perder atractivo, el torneo mantiene una capacidad de convocatoria que podría traducirse en una importante oportunidad comercial para la industria de apuestas deportivas. Operadores como Betsson ya elaboran su estrategia.",
+    "redirectionUrl": "https://gestion.pe/economia/empresas/netquest-para-betsson-como-un-mundial-sin-peru-puede-disparar-el-negocio-de-las-apuestas-en-el-pais-noticia/"
   }
 ]
