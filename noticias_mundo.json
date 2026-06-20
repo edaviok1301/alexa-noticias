@@ -1,16 +1,23 @@
 [
   {
     "uid": "mundo-001",
-    "updateDate": "2026-06-19T04:30:32.0Z",
+    "updateDate": "2026-06-20T04:30:45.0Z",
     "titleText": "Mundo",
-    "mainText": "Mundo. Acompañante terapéutico que trató a Maradona dice que su equipo médico lo tenía “blindado”. Juicio por la muerte de Diego Maradona | El acompañante terapéutico Alejandro Cottaro, que trató a Diego Armando Maradona antes de su fallecimiento, declaró este jueves en el juicio por la muerte del ’10′ que tuvo dificultades para hacer su trabajo porque el astro estaba “blindado” por sus médicos.",
-    "redirectionUrl": "https://elcomercio.pe/mundo/latinoamerica/juicio-por-la-muerte-de-diego-maradona-acompanante-terapeutico-que-trato-al-astro-dice-que-su-equipo-medico-lo-tenia-blindado-alejandro-cottaro-argentina-ultimas-noticia/"
+    "mainText": "Mundo. Rodrigo Paz y Central Obrera logran acuerdo, pero campesinos mantienen bloqueos de vías en Bolivia. El presidente de Bolivia, Rodrigo Paz, y la Central Obrera Boliviana (COB) lograron este viernes un acuerdo para «pacificar» el país tras siete semanas de conflicto, si bien los sindicatos campesinos y los sectores afines al exmandatario Evo Morales mantienen los bloqueos de carreteras con los que exigen la renuncia del gobernante.",
+    "redirectionUrl": "https://elcomercio.pe/mundo/latinoamerica/paz-y-central-obrera-logran-acuerdo-pero-campesinos-mantienen-bloqueos-de-vias-en-bolivia-ultimas-noticia/"
   },
   {
     "uid": "mundo-002",
-    "updateDate": "2026-06-19T04:30:32.0Z",
+    "updateDate": "2026-06-20T04:30:45.0Z",
     "titleText": "Mundo",
-    "mainText": "Mundo. Cuba aprueba reformas para liberalizar su economía y niega que se deba a presiones de EE.UU.: ¿Qué cambios plantea el régimen?. La Asamblea Nacional de Cuba ratificó un paquete de 176 medidas para fortalecer el sector privado y atraer inversión extranjera en medio de tensiones diplomáticas con Washington.",
-    "redirectionUrl": "https://rpp.pe/mundo/actualidad/reformas-economicas-en-cuba-liberalizacion-y-sector-privado-ante-la-crisis-noticia-1693733"
+    "mainText": "Mundo. Temblor en Chile hoy 19 de junio: Epicentro del sismo según CSN. ¿Cuál fue el último Temblor en Chile hoy 19 de junio y registrado por el servicio Sismológico Nacional de Chile (CSN)? Consulta los últimos sismos: magnitud y epicentro del movimiento sísmico.",
+    "redirectionUrl": "https://rpp.pe/mundo/chile/temblor-en-chile-hoy-18-de-junio-epicentro-del-sismo-segun-csn-live-3448"
+  },
+  {
+    "uid": "mundo-003",
+    "updateDate": "2026-06-20T04:30:45.0Z",
+    "titleText": "Mundo",
+    "mainText": "Mundo. Francia convoca comité de emergencia ante histórica ola de calor que rozará los 40 grados. Francia activa un consejo de crisis por ola de calor extremo, con alertas y medidas preventivas que incluyen la suspensión de eventos y monitoreo sanitario intensivo",
+    "redirectionUrl": "http://peru21.pe/mundo/francia-convoca-comite-de-emergencia-ante-historica-ola-de-calor-que-rozara-los-40-grados/"
   }
 ]
