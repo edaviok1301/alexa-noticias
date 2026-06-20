@@ -1,9 +1,16 @@
 [
   {
     "uid": "tecnologia-001",
-    "updateDate": "2026-06-19T04:30:27.0Z",
+    "updateDate": "2026-06-20T04:30:38.0Z",
     "titleText": "Tecnología",
-    "mainText": "Tecnología. Los murciélagos que polinizan para el tequila. Los murciélagos que polinizan para el tequila",
-    "redirectionUrl": "https://elcomercio.pe/tecnologia/ecologia/los-murcielagos-que-polinizan-para-el-tequila-noticia/"
+    "mainText": "Tecnología. Los videos con información falsa sobre la protección solar triunfan en TikTok. Un estudio publicado de la revista PLOS Digital Health revela que a pesar de ser una minoría entre los casi mil video en la red social sobre los protectores solares, la desinformación es la que mayor interacción genera",
+    "redirectionUrl": "https://elcomercio.pe/tecnologia/actualidad/los-videos-con-informacion-falsa-sobre-la-proteccion-solar-triunfan-en-tiktok-noticia/"
+  },
+  {
+    "uid": "tecnologia-002",
+    "updateDate": "2026-06-20T04:30:38.0Z",
+    "titleText": "Tecnología",
+    "mainText": "Tecnología. Ingeniero de software da como ganadora a Keiko Fujimori con su propio modelo predictivo. Ingeniero Luis Rivera predice victoria de Keiko Fujimori en elecciones con modelo basado en actas del JNE y voto extranjero, eliminando incertidumbre del conteo ONPE",
+    "redirectionUrl": "http://peru21.pe/tecnologia/ingeniero-de-software-da-como-ganadora-keiko-fujimori-con-su-propio-modelo-predictivo/"
   }
 ]
