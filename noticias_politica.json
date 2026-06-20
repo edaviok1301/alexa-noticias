@@ -1,16 +1,23 @@
 [
   {
     "uid": "politica-001",
-    "updateDate": "2026-06-19T04:30:16.0Z",
+    "updateDate": "2026-06-20T04:30:20.0Z",
     "titleText": "Política",
-    "mainText": "Política. Elecciones Perú 2026: Resultados ONPE al 99.48% de la segunda vuelta entre Keiko Fujimori y Roberto Sánchez en vivo y conteo oficial de votos. Elecciones Perú 2026: Resultados ONPE al 99.48% de la segunda vuelta entre Keiko Fujimori y Roberto Sánchez en vivo y conteo oficial de votos",
-    "redirectionUrl": "https://elcomercio.pe/politica/elecciones/resultados-segunda-vuelta-elecciones-peru-2026-en-vivo-conteo-onpe-flash-electoral-y-quien-gana-entre-keiko-fujimori-y-roberto-sanchez-hoy-7-de-junio-noticia/"
+    "mainText": "Política. Cuál es la cantidad de votos que separa a Keiko Fujimori y Roberto Sánchez, según resultados oficiales de la ONPE. Cuál es la cantidad de votos que separa a Keiko Fujimori y Roberto Sánchez, según resultados oficiales de la ONPE",
+    "redirectionUrl": "https://elcomercio.pe/politica/elecciones/cual-es-la-cantidad-de-votos-que-separa-a-keiko-fujimori-y-roberto-sanchez-segun-ultimos-resultados-onpe-de-la-segunda-vuelta-elecciones-peru-2026-noticia/"
   },
   {
     "uid": "politica-002",
-    "updateDate": "2026-06-19T04:30:16.0Z",
+    "updateDate": "2026-06-20T04:30:20.0Z",
     "titleText": "Política",
-    "mainText": "Política. Galarreta sobre anuncio de Sánchez de sumarse a marchas: \"Esperemos que no sean un indicio de no querer reconocer resultados\". El candidato a la Vicepresidencia de la República por Fuerza Popular indicó que la postura de Sánchez solo representa a una parte de Juntos por el Perú y dijo saber que varios sectores de dicha agrupación aceptarán los resultados que den los órganos electorales.",
-    "redirectionUrl": "https://rpp.pe/politica/actualidad/galarreta-sobre-anuncio-de-sanchez-de-sumarse-a-marchas-esperemos-que-no-sean-un-indicio-de-no-querer-reconocer-resultados-noticia-1693668"
+    "mainText": "Política. JNE declaró infundadas las apelaciones de Juntos por el Perú que solicitaban nulidad masiva de mesas de votación en Lima y Estados Unidos. Además de estas solicitudes de nulidad, el pleno del JNE resolvió otras 27 apelaciones relacionadas con actas electorales observadas, las cuales también fueron declaradas infundadas.",
+    "redirectionUrl": "https://rpp.pe/politica/elecciones/jne-declaro-infundadas-las-apelaciones-de-juntos-por-el-peru-que-solicitaban-nulidad-masiva-de-mesas-de-votacion-lima-y-america-noticia-1693871"
+  },
+  {
+    "uid": "politica-003",
+    "updateDate": "2026-06-20T04:30:20.0Z",
+    "titleText": "Política",
+    "mainText": "Política. Declaran infundadas apelaciones de JPP que solicitaba nulidad de mesas de votación en Lima y EE. UU.. El JNE declara infundadas apelaciones de Juntos por el Perú en la segunda vuelta de las Elecciones Generales 2026, destacando transparencia y legalidad",
+    "redirectionUrl": "http://peru21.pe/politica/declaran-infundadas-apelaciones-de-jpp-que-solicitaba-nulidad-de-mesas-de-votacion-en-lima-y-america/"
   }
 ]
