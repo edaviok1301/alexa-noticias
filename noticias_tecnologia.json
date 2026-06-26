@@ -1,16 +1,16 @@
 [
   {
     "uid": "tecnologia-001",
-    "updateDate": "2026-06-25T04:30:29.0Z",
+    "updateDate": "2026-06-26T04:30:29.0Z",
     "titleText": "Tecnología",
-    "mainText": "Tecnología. La humanidad apunta a la Luna y Marte: ¿está preparada para actuar éticamente si encuentra nuevas posibilidades de vida?. El Comercio conversó con el Dr. Octavio Chon Torres, presidente de la Asociación Peruana de Astrobiología, sobre los desafíos morales que presenta la exploración de las estrellas",
-    "redirectionUrl": "https://elcomercio.pe/tecnologia/actualidad/la-humanidad-apunta-a-la-luna-y-marte-esta-preparada-para-actuar-eticamente-si-encuentra-nuevas-posibilidades-de-vida-noticia/"
+    "mainText": "Tecnología. Apple cae 6,15% en bolsa tras subir los precios de sus productos ante escasez de chips. El gigante tecnológico Apple cayó este jueves 6,15% en Wall Street, su peor descenso desde abril de 2025, tras anunciar un incremento del precio de sus productos debido a una “escasez sin precedentes” de chips de memoria y almacenamiento.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/apple-cae-615-en-bolsa-tras-subir-los-precios-de-sus-productos-ante-escasez-de-chips-l-ultimas-noticia/"
   },
   {
     "uid": "tecnologia-002",
-    "updateDate": "2026-06-25T04:30:29.0Z",
+    "updateDate": "2026-06-26T04:30:29.0Z",
     "titleText": "Tecnología",
-    "mainText": "Tecnología. Los nuevos lentes de Meta tienen inteligencia artificial, cámara, micrófono y hasta traductor. Meta lanza gafas inteligentes más accesibles para impulsar su adopción masiva",
-    "redirectionUrl": "http://peru21.pe/mundo/los-nuevos-lentes-de-meta-tienen-inteligencia-artificial-camara-microfono-y-hasta-traductor/"
+    "mainText": "Tecnología. Empresas peruanas pierden ventas por demoras en la atención.. Cada vez más instituciones apuestan por herramientas digitales para atender mejor a sus clientes, reducir tareas operativas y enfocarse en actividades de mayor valor.",
+    "redirectionUrl": "http://peru21.pe/tecnologia/empresas-peruanas-pierden-ventas-por-demoras-en-la-atencion/"
   }
 ]
