@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-06-30T04:30:24.0Z",
+    "updateDate": "2026-07-01T04:30:23.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Wall Street cierra en verde y el Dow Jones supera por primera vez los 52.000 puntos. Wall Street cerró este lunes con ganancias y el Dow Jones de Industriales superó por primera vez en su historia la barrera de los 52.000 puntos, impulsado por el debut de Alphabet en el índice y por el alivio de los inversores tras la pausa de las hostilidades entre Estados Unidos e Irán, mientras que el tecnológico Nasdaq se disparó 2%.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/wall-street-cierra-en-verde-y-el-dow-jones-supera-por-primera-vez-los-52000-puntos-l-mercados-l-wall-street-l-ultimas-noticia/"
+    "mainText": "Economía. Congreso: Comisión de Presupuesto aprueba dictamen de créditos suplementarios. La Comisión de Presupuesto del Congreso aprobó por mayoría el dictamen que aprueba créditos suplementarios para el financiamiento de inversiones públicas orientadas al cierre de brechas, la continuidad de los servicios del Estado y garantizar la transición democrática.",
+    "redirectionUrl": "https://elcomercio.pe/economia/peru/congreso-comision-de-presupuesto-aprueba-dictamen-de-creditos-suplementarios-fenomeno-el-nino-ultimas-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-06-30T04:30:24.0Z",
+    "updateDate": "2026-07-01T04:30:23.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Petróleo sube, pero mercados apuestan por una tregua en Ormuz. El conflicto entre EE.UU. e Irán impacta en el petróleo, inflación y activos de riesgo, con mercados atentos a las conversaciones en Doha y el flujo por Ormuz",
-    "redirectionUrl": "http://peru21.pe/economia/petroleo-sube-pero-mercados-apuestan-por-una-tregua-en-ormuz/"
+    "mainText": "Economía. BCRP alerta estafas que usan su nombre e imagen: “No ofrecemos inversiones ni solicitamos pagos a los ciudadanos”. El Banco Central de Reserva advirtió que delincuentes utilizan videos falsos generados con inteligencia artificial difundidos principalmente en redes sociales, documentos adulterados y llamadas telefónicas para suplantar a funcionarios y engañar a los ciudadanos.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/bcrp-alerta-sobre-estafas-que-usan-su-imagen-para-ofrecer-falsas-inversiones-estas-son-las-modalidades-a-tener-cuidado-noticia-1695378"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-06-30T04:30:24.0Z",
+    "updateDate": "2026-07-01T04:30:23.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Dueña de Wong y Metro compra cadena supermayorista: la expansión de Cencosud. La chilena Cencosud, matriz en Perú de las cadenas Wong y Metro, anunció la adquisición de una cadena mayorista por aproximadamente US$158 millones, operación con la que refuerza su estrategia de crecimiento en el formato cash & carry y amplía su presencia en la región. La transacción será financiada íntegramente con recursos propios y permanece sujeta a la aprobación de la autoridad de competenci",
-    "redirectionUrl": "https://gestion.pe/economia/empresas/chilena-cencosud-acelera-expansion-en-negocio-mayorista-con-nueva-adquisicion-de-cadena-internacional-noticia/"
+    "mainText": "Economía. ¿Tienes RUC? Sunat impone un nuevo requisito obligatorio para todos los contribuyentes. La Sunat exige a todos los contribuyentes del RUC registrar y validar un correo y teléfono móvil para mejorar la comunicación y seguridad tributaria en Perú",
+    "redirectionUrl": "http://peru21.pe/economia/sunat-exige-validar-correo-y-celular-para-el-ruc-en-2026/"
+  },
+  {
+    "uid": "economia-004",
+    "updateDate": "2026-07-01T04:30:23.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Productos andinos generan negocios por S/ 50.7 millones y fortalecen las exportaciones. La Octava edición de la Expo Perú Los Andes Huancavelica 2026 cerró con un movimiento económico de alrededor de S/ 50.7 millones impulsado principalmente por expectativas de negocios para exportación por S/ 43.3 millones, mientras que el mercado nacional concentró otro S/ 3 millones, consolidando a la feria como una plataforma comercial para la oferta exportable de la zona sierra peruana.",
+    "redirectionUrl": "https://gestion.pe/economia/productos-andinos-con-valor-agregado-generan-negocios-por-s-507-millones-y-fortalecen-las-exportaciones-noticia/"
   }
 ]
