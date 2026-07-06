@@ -1,30 +1,23 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-07-05T04:30:21.0Z",
+    "updateDate": "2026-07-06T04:30:21.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Erling Haaland, el imperio del vikingo: el goleador noruego que invierte en ligas para el cabello, ajedrez y más. El delantero centro de la selección Noruega jugará contra Brasil en el Mundial 2026. Esta figura del fútbol ha lanzado una edición limitada de ligas para el cabello.",
-    "redirectionUrl": "https://elcomercio.pe/economia/el-lado-empresarial-de-erling-haaland-el-goleador-noruego-que-invierte-en-ligas-para-el-cabello-y-en-ajedrez-noticia/"
+    "mainText": "Economía. Precio del dólar en Perú hoy, lunes 6 de julio: cuál es el tipo de cambio del día. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 6 de julio. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-a-cuanto-esta-el-dolar-y-tipo-de-cambio-este-lunes-6-de-julio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-07-05T04:30:21.0Z",
+    "updateDate": "2026-07-06T04:30:21.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Exportaciones de frutas y hortalizas crecieron 17.3 % en el primer cuatrimestre: ¿cuáles fueron los mercados clave?. El Midagri indicó que este desempeño reafirma la posición de Perú como una potencia agroexportadora global.",
-    "redirectionUrl": "https://rpp.pe/economia/economia/exportaciones-de-frutas-y-hortalizas-crecieron-173-en-el-primer-cuatrimestre-cuales-fueron-los-mercados-clave-noticia-1695939"
+    "mainText": "Economía. Empresas recuperan confianza y vuelven a ver una economía más favorable. Las empresas peruanas muestran optimismo tras las elecciones, con mejoras en expectativas económicas, demanda, inversión y empleo según el BCR",
+    "redirectionUrl": "http://peru21.pe/economia/empresas-recuperan-confianza-y-vuelven-ver-una-economia-mas-favorable/"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-07-05T04:30:21.0Z",
+    "updateDate": "2026-07-06T04:30:21.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. La BVL y el sol estables por feriado en Estados Unidos. El sol y la Bolsa de Valores de Lima registran movimientos moderados tras la proclamación oficial de resultados electorales y el alza de acciones mineras",
-    "redirectionUrl": "http://peru21.pe/economia/la-bvl-y-el-sol-estables-por-feriado-en-estados-unidos/"
-  },
-  {
-    "uid": "economia-004",
-    "updateDate": "2026-07-05T04:30:21.0Z",
-    "titleText": "Economía",
-    "mainText": "Economía. Inversión china llega a Las Malvinas: de la importación a la compra de locales, ¿qué sigue?. El sector construcción en Perú mantiene un buen ritmo en 2026 y la Cámara Peruana de la Construcción (Capeco) estima que esta actividad habría crecido 20% en abril. En ese contexto, el emporio electroferretero de Las Malvinas vive un buen momento y da un paso más: además de abastecer al mercado local, toma impulso para abrirse camino en otros países con el impulso logístico del megapuerto de Chanc",
-    "redirectionUrl": "https://gestion.pe/economia/empresas/las-malvinas-y-las-rutas-de-exportacion-con-el-megapuerto-de-chancay-emporio-electroferretero-de-lima-se-conecta-a-sudamerica-con-tecnologia-e-ia-noticia/"
+    "mainText": "Economía. PlayStation y el fin de videojuegos en discos: así cambiará la economía de los gamers. PlayStation dejará de vender videojuegos físicos desde 2028: impacto en precios, reventa y coleccionismo en la comunidad gamer.",
+    "redirectionUrl": "https://gestion.pe/tecnologia/playstation-y-el-fin-de-videojuegos-en-discos-asi-cambiara-la-economia-de-los-gamers-noticia/"
   }
 ]
