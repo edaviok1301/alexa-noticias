@@ -1,21 +1,28 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-07-06T04:30:21.0Z",
+    "updateDate": "2026-07-07T04:30:22.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar en Perú hoy, lunes 6 de julio: cuál es el tipo de cambio del día. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 6 de julio. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-a-cuanto-esta-el-dolar-y-tipo-de-cambio-este-lunes-6-de-julio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Tipo de cambio cierra al alza: dólar cotiza en S/3,41 al término de este lunes 6 de julio. El precio del dólar cerró hoy en S/3,4100, avanzando 80 puntos con respecto al cierre del día viernes que se situó en S/3,4020.",
+    "redirectionUrl": "https://elcomercio.pe/economia/peru/tipo-de-cambio-cierra-al-alza-dolar-cotiza-en-s341-al-termino-de-este-lunes-6-de-julio-l-precio-del-dolar-l-ultimas-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-07-06T04:30:21.0Z",
+    "updateDate": "2026-07-07T04:30:22.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Empresas recuperan confianza y vuelven a ver una economía más favorable. Las empresas peruanas muestran optimismo tras las elecciones, con mejoras en expectativas económicas, demanda, inversión y empleo según el BCR",
-    "redirectionUrl": "http://peru21.pe/economia/empresas-recuperan-confianza-y-vuelven-ver-una-economia-mas-favorable/"
+    "mainText": "Economía. CADE Ejecutivos 2026 volverá a realizarse en Cusco y será presidido por Rolando Arellano Cueva. La edición 64 del principal foro empresarial del país se desarrollará del 24 al 26 de noviembre en Urubamba, Cusco. El encuentro reunirá a empresarios, autoridades y representantes de la sociedad civil en un contexto marcado por el inicio de un nuevo ciclo político en el Perú.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/cade-ejecutivos-2026-volvera-a-realizarse-en-cusco-y-sera-liderado-por-rolando-arellano-cueva-noticia-1696164"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-07-06T04:30:21.0Z",
+    "updateDate": "2026-07-07T04:30:22.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Julio Velarde: El economista peruano más condecorado de la historia. Cuenta con 21 reconocimientos, entre los cuales figuran dos \"Órdenes del Sol\" en calidad de \"Gran Cruz\" y los máximos galardones de hasta 10 universidades peruanas.",
+    "redirectionUrl": "http://peru21.pe/economia/julio-velarde-el-economista-peruano-mas-condecorado-de-la-historia/"
+  },
+  {
+    "uid": "economia-004",
+    "updateDate": "2026-07-07T04:30:22.0Z",
     "titleText": "Economía",
     "mainText": "Economía. PlayStation y el fin de videojuegos en discos: así cambiará la economía de los gamers. PlayStation dejará de vender videojuegos físicos desde 2028: impacto en precios, reventa y coleccionismo en la comunidad gamer.",
     "redirectionUrl": "https://gestion.pe/tecnologia/playstation-y-el-fin-de-videojuegos-en-discos-asi-cambiara-la-economia-de-los-gamers-noticia/"
