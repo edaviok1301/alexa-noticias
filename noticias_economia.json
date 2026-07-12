@@ -1,30 +1,23 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-07-11T04:30:35.0Z",
+    "updateDate": "2026-07-12T04:30:23.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. TC prohíbe al Congreso crear leyes que generen gasto público sin previa coordinación y aval técnico del Ejecutivo. El Pleno del Tribunal Constitucional (TC) emitió un fallo definitivo que limita al Congreso a aprobar normas que demanden recursos del tesoro público tras declarar fundada la demanda de inconstitucionalidad interpuesta por el Poder Ejecutivo contra la Ley 31232, una norma que modificaba las directrices para la reubicación de ciudadanos de la Zona Baja del distrito de Belén, en la provincia de Mayn",
-    "redirectionUrl": "https://elcomercio.pe/economia/peru/tribunal-constitucional-prohibe-al-congreso-crear-leyes-que-generen-gasto-publico-sin-previa-coordinacion-y-aval-tecnico-del-ejecutivo-ultimas-noticia/"
+    "mainText": "Economía. Un fenómeno de El Niño extremo podría reducir a la mitad el aporte de la pesca a la economía peruana: así impacta a las regiones y al empleo. Un estudio de Apoyo Consultoría para la Sociedad Nacional de Pesquería (SNP) estimó que la pesca industrial aportó más de S/25.000 millones a la economía peruana durante el 2025. El informe advierte que un Fenómeno El Niño extremo podría reducir ese aporte a la mitad y poner en riesgo hasta 78.000 empleos.",
+    "redirectionUrl": "https://elcomercio.pe/economia/un-fen-extremo-podria-reducir-a-la-mitad-el-aporte-de-la-pesca-a-la-economia-peruana-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-07-11T04:30:35.0Z",
+    "updateDate": "2026-07-12T04:30:23.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. El Tribunal Constitucional se rectificó y estableció de forma vinculante que el Congreso no tiene iniciativa de gasto. Bajo este nuevo marco, el organismo establece que la iniciativa de gasto es, como regla general, una competencia exclusiva del Ejecutivo. A partir de ahora, para que un proyecto legislativo sea constitucional, deberá cumplir una serie de pautas obligatorias establecidas por el Tribunal Constitucional (TC).",
-    "redirectionUrl": "https://rpp.pe/economia/economia/el-tribunal-constitucional-se-rectifico-y-establecio-de-forma-vinculante-que-el-congreso-no-tiene-iniciativa-de-gasto-noticia-1696810"
+    "mainText": "Economía. ¿Qué pasa cuando no se actualiza el testamento?. Cambios en el valor de acciones, inmuebles o empresas pueden alterar la distribución prevista | Testamento | Economía | Perú",
+    "redirectionUrl": "http://peru21.pe/economia/que-pasa-cuando-no-se-actualiza-el-testamento/"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-07-11T04:30:35.0Z",
+    "updateDate": "2026-07-12T04:30:23.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Aguinaldo por Fiestas Patrias 2026: Quiénes recibirán hasta S/300, requisitos y cuándo se pagará. El MEF oficializa el pago de aguinaldo de S/300 por Fiestas Patrias 2026 para trabajadores del sector público, con requisitos específicos para su acceso",
-    "redirectionUrl": "http://peru21.pe/economia/aguinaldo-fiestas-patrias-2026-beneficiarios-y-pago/"
-  },
-  {
-    "uid": "economia-004",
-    "updateDate": "2026-07-11T04:30:35.0Z",
-    "titleText": "Economía",
-    "mainText": "Economía. Congestión en redes eléctricas frena dinamismo a la agroindustria: ¿Qué plantean las empresas a Fujimori?. Los indicadores de consumo eléctrico podrían empezar a peligrar. A mayo, se tiene un aumento de la producción de 3.6%, cercano al 4% anual previsto de manera optimista.",
-    "redirectionUrl": "https://gestion.pe/economia/agroindustria-en-regiones-se-ve-frenada-por-congestion-en-redes-electricas-alertan-distribuidoras-noticia/"
+    "mainText": "Economía. TUUA de conexión: posiciones encontradas se “agudizan” sobre cobro de casi US$ 12 a pasajeros. Gremio de aerolíneas evalúa adoptar medidas, según señala, para que ese cobro no afecte la llegada de turistas al país.",
+    "redirectionUrl": "https://gestion.pe/economia/tuua-de-conexion-internacional-en-el-jorge-chavez-posiciones-encontradas-se-agudizan-sobre-este-cobro-a-pasajeros-en-transito-noticia/"
   }
 ]
