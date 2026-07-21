@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-07-20T04:30:26.0Z",
+    "updateDate": "2026-07-21T04:30:24.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar en Perú del lunes 20 de julio: cuál es el tipo de cambio. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 20 de julio. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-hoy-lunes-20-de-julio-cual-es-el-tipo-de-cambio-del-dia-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Canadá acusa a EE.UU. de violar el T-MEC tras anuncio de Trump de nuevos aranceles del 50 %. El primer ministro de Canadá, Mark Carney, acusó este lunes a Estados Unidos de violar el Tratado entre México, Estados Unidos y Canadá (T-MEC) tras el anuncio de la Administración de Donald Trump de imponer un nuevo arancel del 50 % a un número significativo de productos canadienses, y aseguró que su Gobierno intensificará las conversaciones para resolver la disputa comercial.",
+    "redirectionUrl": "https://elcomercio.pe/mundo/norteamerica/canada-acusa-a-estados-unidos-de-violar-el-t-mec-tras-anuncio-de-donald-trump-de-nuevos-aranceles-del-50-mark-carney-ultimas-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-07-20T04:30:26.0Z",
+    "updateDate": "2026-07-21T04:30:24.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. El pollo a la brasa mueve S/12,000 millones al año. El negocio del pollo a la brasa en Perú genera S/12,000 millones anuales, emplea a 540,000 personas y representa el 2% del PBI, expandiéndose globalmente",
-    "redirectionUrl": "http://peru21.pe/economia/el-pollo-la-brasa-mueve-s12000-millones-al-ano/"
+    "mainText": "Economía. Beca Generación del Bicentenario 2026: Pronabec anuncia que no habrá convocatoria este año por falta de presupuesto. En entrevista en RPP, el director ejecutivo del Pronabec, Enrique Chon, señaló que el Gobierno no le otorgó los recursos que pidieron para lanzar una nueva convocatoria de la beca para estudios de posgrado en el extranjero. Los S/ 34 millones aprobados en el crédito suplementario serán destinados para 2.000 nuevas vacantes de Beca 18.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/beca-generacion-bicentenario-no-tendra-convocatoria-este-ano-anuncia-pronabec-cual-es-el-motivo-noticia-1698141"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-07-20T04:30:26.0Z",
+    "updateDate": "2026-07-21T04:30:24.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Seis de cada diez soles que mueve el sector de venta directa se generan en regiones. Seis de cada diez soles que mueve el sector de venta directa se generan en regiones.El sector de venta directa superó los S/ 1,342 millones en el primer trimestre de 2026, según la Cámara Peruana de Venta Directa.",
-    "redirectionUrl": "https://gestion.pe/economia/seis-de-cada-diez-soles-que-mueve-el-sector-de-venta-directa-se-generan-en-regiones-noticia/"
+    "mainText": "Economía. CCL insta a gobierno de Fujimori a priorizar reformas para recuperar la confianza. La Cámara de Comercio de Lima insta a Keiko Fujimori a implementar reformas para mejorar la infraestructura, simplificar trámites y fomentar la confianza económica en Perú",
+    "redirectionUrl": "http://peru21.pe/economia/ccl-insta-gobierno-de-fujimori-priorizar-reformas/"
+  },
+  {
+    "uid": "economia-004",
+    "updateDate": "2026-07-21T04:30:24.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. ¿EsSalud se quedará sin medicamentos? Gremios alertan incumplimiento acumulado de pagos. Gremios del Perú alertan riesgo de desabastecimiento de medicamentos en EsSalud y piden garantizar el suministro para 12 millones de asegurados.",
+    "redirectionUrl": "https://gestion.pe/economia/essalud-sin-medicamentos-gremios-del-peru-alertan-deuda-y-cambios-en-las-compras-noticia/"
   }
 ]
