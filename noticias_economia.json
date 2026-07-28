@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-07-27T04:30:27.0Z",
+    "updateDate": "2026-07-28T04:30:20.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar en Perú: consulta el tipo de cambio del lunes 27 de julio. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 27 de julio. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-a-cuanto-esta-el-tipo-de-cambio-del-lunes-27-de-julio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Tipo de cambio: dólar se mantiene en S/3,40 mientras mercado espera decisión de la Reserva Federal. El precio del dólar permaneció en S/3,4020 en el mercado interbancario, el mismo nivel registrado al cierre de la semana pasada. A nivel global, la divisa estadounidense cerró con una ligera apreciación frente a sus principales pares, en medio de un comportamiento mixto de las monedas desarrolladas y emergentes.",
+    "redirectionUrl": "https://elcomercio.pe/economia/peru/tipo-de-cambio-dolar-se-mantiene-en-s340-mientras-mercado-espera-decision-de-la-reserva-federal-l-ultimas-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-07-27T04:30:27.0Z",
+    "updateDate": "2026-07-28T04:30:20.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Productos que tienen puesta la bandera requieren su relanzamiento. El Perú tiene una lista de 13 productos que recibieron esta distinción y que, si bien han logrado posicionarse, necesitan más promoción | Productos bandera",
-    "redirectionUrl": "http://peru21.pe/economia/productos-que-tienen-puesta-la-bandera-requieren-su-relanzamiento/"
+    "mainText": "Economía. Primer Mensaje a la Nación de Keiko Fujimori: los anuncios que los gremios empresariales y sindicatos esperan para este 28 de julio. Representantes de la industria, minería, construcción, pesca, agro y sindicato de trabajadores coincidieron en pedir medidas urgentes para enfrentar el Fenómeno El Niño, combatir la inseguridad, reactivar la economía y generar empleo en el primer Mensaje a la Nación que ofrecerá Keiko Fujimori este 28 de julio.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/mensaje-a-la-nacion-2026-de-keiko-fujimori-agenda-que-gremios-empresariales-y-sindicatos-quieren-escuchar-primer-discurso-presidencial-noticia-1699040"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-07-27T04:30:27.0Z",
+    "updateDate": "2026-07-28T04:30:20.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Renuncias pueden costar hasta dos salarios, pero no es el mayor problema para las empresas. Renuncia de un trabajador puede afectar la productividad y retrasar proyectos, especialmente en empresas que se encuentran en expansión, según especialistas en Recursos Humanos. El verdadero costo de perder talento va mucho más allá del proceso de contratación.",
-    "redirectionUrl": "https://gestion.pe/economia/renuncias-pueden-costar-hasta-dos-salarios-anuales-pero-no-es-el-mayor-problema-para-las-empresas-noticia/"
+    "mainText": "Economía. Keiko Fujimori se reúne con gremios empresariales antes de asumir la presidencia. CEAPI y CAF reafirman su apoyo a Perú con Keiko Fujimori, enfocándose en desarrollo sostenible, inversión privada y preparación ante el fenómeno El Niño",
+    "redirectionUrl": "http://peru21.pe/economia/keiko-fujimori-se-reune-con-gremios-empresariales-antes-de-asumir-la-presidencia/"
+  },
+  {
+    "uid": "economia-004",
+    "updateDate": "2026-07-28T04:30:20.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Fiestas Patrias: limeños gastarían más este año, ¿qué los atrae para el feriado?. El 62% de los limeños dijo que este año sí celebrará Fiestas Patrias, ligeramente por debajo del porcentaje del año pasado (64%), pero por encima del registrado en el 2024 (57%), según encuesta de GRM y BNI, compartida con Gestión.",
+    "redirectionUrl": "https://gestion.pe/economia/fiestas-patrias-limenos-gastarian-mas-este-ano-que-actividades-los-atraen-para-el-feriado-noticia/"
   }
 ]
