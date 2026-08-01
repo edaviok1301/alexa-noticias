@@ -1,30 +1,16 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-07-31T04:30:28.0Z",
+    "updateDate": "2026-08-01T04:32:08.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Los indicadores que describen la situación económica a inicios del gobierno de Keiko Fujimori: ¿Cuáles serán los principales retos de su gestión?. La economía crecería nuevamente por encima de 3%, pero la incidencia de un Niño costero fuerte es el principal riesgo que ralentizaría su dinamismo.",
-    "redirectionUrl": "https://elcomercio.pe/ecdata/keiko-fujimori-fuerza-popular-fiestas-patrias-desfile-militar-feriado-largo-28-de-julio-congreso-bicameral-roberto-sanchez-juntos-por-el-peru-noticia/"
+    "mainText": "Economía. Exhortan al Gobierno prorrogar la entrada en vigencia de la Euro 6. La AAP pide al gobierno de Keiko Fujimori prorrogar la norma de combustibles Euro 6 por falta de capacidad de suministro de Petroperú",
+    "redirectionUrl": "http://peru21.pe/economia/exhortan-al-gobierno-prorrogar-la-entrada-en-vigencia-de-la-euro-6/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-07-31T04:30:28.0Z",
+    "updateDate": "2026-08-01T04:32:08.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Movistar aumentó 37% su ganancia operativa en el primer semestre del 2026. La empresa reportó un incremento en su EBITDA durante el primer semestre del año, impulsado por eficiencias operativas, mayores ingresos por fibra óptica y mejoras en su red móvil.",
-    "redirectionUrl": "https://rpp.pe/economia/economia/movistar-aumento-37-su-ganancia-operativa-en-el-primer-semestre-del-2026-noticia-1699479"
-  },
-  {
-    "uid": "economia-003",
-    "updateDate": "2026-07-31T04:30:28.0Z",
-    "titleText": "Economía",
-    "mainText": "Economía. ComexPerú respalda el pedido de facultades legislativas del Ejecutivo. ComexPerú apoya la delegación de facultades legislativas para impulsar reformas económicas, promover inversión y formalización laboral en Perú",
-    "redirectionUrl": "http://peru21.pe/economia/comexperu-respalda-el-pedido-de-facultades-legislativas-del-ejecutivo/"
-  },
-  {
-    "uid": "economia-004",
-    "updateDate": "2026-07-31T04:30:28.0Z",
-    "titleText": "Economía",
-    "mainText": "Economía. Ministro Vinelli: Se está ajustando proyecto de delegación de facultades legislativas. El ministro de Desarrollo Agrario y Riego, Marco Vinelli, indicó que el Consejo de Ministros continúa trabajando en un proyecto de ley para la delegación de facultades que se revisará el domingo y el cual será remitido al Congreso la próxima semana.",
-    "redirectionUrl": "https://gestion.pe/economia/ministro-marco-vinelli-se-esta-ajustando-proyecto-de-delegacion-de-facultades-legislativas-para-enviarlo-al-congreso-noticia/"
+    "mainText": "Economía. Crisis por El Niño en Perú: El 23% del PBI está en riesgo, ¿qué significa esto?. La Cámara de Comercio de Lima (CCL) advirtió que las regiones con mayor riesgo ante el Fenómeno El Niño concentran casi una cuarta parte de la economía nacional.",
+    "redirectionUrl": "https://gestion.pe/economia/el-nino-y-su-impacto-en-peru-hasta-23-del-pbi-en-jaque-ante-crisis-de-gestion-y-prevencion-noticia/"
   }
 ]
