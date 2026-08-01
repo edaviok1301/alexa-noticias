@@ -1,23 +1,9 @@
 [
   {
     "uid": "politica-001",
-    "updateDate": "2026-07-31T04:30:21.0Z",
+    "updateDate": "2026-08-01T04:31:34.0Z",
     "titleText": "Política",
-    "mainText": "Política. Senadores de Juntos por el Perú piden esperar investigación ante denuncia contra diputado Julián Pérez. Diversos senadores de Juntos por el Perú (JP) pidieron esperar los resultados de la investigación contra el diputado Julián Pérez, quien fue detenido este jueves 30 de julio tras ser denunciado por agresión contra una mujer.",
-    "redirectionUrl": "https://elcomercio.pe/politica/congreso/julian-perez-mallqui-senadores-de-juntos-por-el-peru-piden-esperar-investigacion-ante-denuncia-contra-diputado-ultimas-noticia/"
-  },
-  {
-    "uid": "politica-002",
-    "updateDate": "2026-07-31T04:30:21.0Z",
-    "titleText": "Política",
-    "mainText": "Política. Indira Huilca sobre pedido de facultades legislativas: \"No vamos a dar un cheque en blanco a este gobierno\". La diputada de Ahora Nación indicó en RPP que su bancada se pronunciará formalmente, sobre el pedido de facultades de legislativas, cuando el proyecto se presente ante la Cámara de Diputados. Sin embargo, señaló que el primer borrador difundido si genera una situación \"preocupante\".",
-    "redirectionUrl": "https://rpp.pe/politica/congreso/indira-huilca-sobre-pedido-de-facultades-legislativas-no-vamos-a-dar-un-cheque-en-blanco-a-este-gobierno-noticia-1699491"
-  },
-  {
-    "uid": "politica-003",
-    "updateDate": "2026-07-31T04:30:21.0Z",
-    "titleText": "Política",
-    "mainText": "Política. Ollanta Humala saldrá libre: TC anula toda la investigación contra el expresidente. El Tribunal Constitucional anula el proceso penal contra Ollanta Humala por lavado de activos, revocando su sentencia de 15 años de prisión en el caso Odebrecht",
-    "redirectionUrl": "http://peru21.pe/politica/ollanta-humala-saldra-libre-tc-anula-toda-la-investigacion-contra-expresidente/"
+    "mainText": "Política. Ollanta Humala abandona el penal de Barbadillo tras resolución del TC. Ollanta Humala sale del penal de Barbadillo tras fallo del Tribunal Constitucional y denuncia persecución política y judicial en su contra",
+    "redirectionUrl": "http://peru21.pe/politica/ollanta-humala-sale-del-penal-de-barbadillo-y-se-pronuncia/"
   }
 ]
