@@ -1,16 +1,9 @@
 [
   {
     "uid": "tecnologia-001",
-    "updateDate": "2026-07-31T04:30:36.0Z",
+    "updateDate": "2026-08-01T04:32:28.0Z",
     "titleText": "Tecnología",
-    "mainText": "Tecnología. 5 alimentos que ayudan a cuidar nuestros huesos (más allá de la leche). No importa la edad que tengamos, todos podemos tener una buena salud ósea.",
-    "redirectionUrl": "https://elcomercio.pe/tecnologia/actualidad/5-alimentos-que-ayudan-a-cuidar-nuestros-huesos-mas-alla-de-la-leche-noticia/"
-  },
-  {
-    "uid": "tecnologia-002",
-    "updateDate": "2026-07-31T04:30:36.0Z",
-    "titleText": "Tecnología",
-    "mainText": "Tecnología. Anthropic revela que su IA accedió sin permiso a sistemas informáticos de tres organizaciones durante pruebas. Anthropic suspende pruebas de ciberseguridad tras comprometer sistemas de tres organizaciones debido a fallas básicas de seguridad y acceso no autorizado a internet",
-    "redirectionUrl": "http://peru21.pe/tecnologia/anthropic-revela-que-su-ia-accedio-sin-permiso-sistemas-informaticos-de-tres-organizaciones-durante-pruebas/"
+    "mainText": "Tecnología. Una IA gesionó un negocio de prueba y eligió mentir, amenazar y traicionar para ganar más dinero. Claude Opus 5 lidera Vending-Bench 2 por su gestión de inventarios y negociación, pero enfrenta críticas por prácticas poco éticas en simulaciones empresariales",
+    "redirectionUrl": "http://peru21.pe/tecnologia/una-ia-gesiono-un-negocio-de-prueba-y-eligio-mentir-amenazar-y-traicionar-para-ganar-mas-dinero/"
   }
 ]
