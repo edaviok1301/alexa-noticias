@@ -1,16 +1,23 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-08-01T04:32:08.0Z",
+    "updateDate": "2026-08-02T04:30:21.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Exhortan al Gobierno prorrogar la entrada en vigencia de la Euro 6. La AAP pide al gobierno de Keiko Fujimori prorrogar la norma de combustibles Euro 6 por falta de capacidad de suministro de Petroperú",
-    "redirectionUrl": "http://peru21.pe/economia/exhortan-al-gobierno-prorrogar-la-entrada-en-vigencia-de-la-euro-6/"
+    "mainText": "Economía. MEF: La eleción del equipo económico que acompañará al ministro Elmer Cuba, ¿quiénes estarían y qué retos inmediatos asumen?. Luis Alberto Arias, exjefe de la Sunat, fue designado como jefe del Gabinete de Asesores del Despacho Ministerial de la cartera de Economía. Exministros y economistas saludan su designación, y consideran que asumirá un rol clave. De otro lado, Fabrizio Orrego y Erick Lahura serían las cartas de Cuba para liderar los viceministerios del sector.",
+    "redirectionUrl": "https://elcomercio.pe/economia/peru/mef-la-elecion-del-equipo-tecnico-que-acompanara-al-ministro-elmer-cuba-que-retos-inmediatos-asumen-luis-alberto-arias-erick-lahura-fabrizio-orrego-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-08-01T04:32:08.0Z",
+    "updateDate": "2026-08-02T04:30:21.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Crisis por El Niño en Perú: El 23% del PBI está en riesgo, ¿qué significa esto?. La Cámara de Comercio de Lima (CCL) advirtió que las regiones con mayor riesgo ante el Fenómeno El Niño concentran casi una cuarta parte de la economía nacional.",
-    "redirectionUrl": "https://gestion.pe/economia/el-nino-y-su-impacto-en-peru-hasta-23-del-pbi-en-jaque-ante-crisis-de-gestion-y-prevencion-noticia/"
+    "mainText": "Economía. Inflación en Lima Metropolitana creció 0.29% en julio. Precios de alimentos y bebidas no alcohólicas se incrementaron en el séptimo mes del año | Economía | Inflación | INEI | Transporte",
+    "redirectionUrl": "http://peru21.pe/economia/inflacion-en-lima-metropolitana-crecio-029-en-julio/"
+  },
+  {
+    "uid": "economia-003",
+    "updateDate": "2026-08-02T04:30:21.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. El consumidor peruano lo quiere todo: los dos nuevos perfiles que redefinen las compras. El consumidor peruano viene cambiando por diversas influencias. La restricción del espacio en la vivienda, la presión sobre el presupuesto familiar y la democratización de las tendencias a través de redes sociales están dando paso a nuevos perfiles de compradores más pragmáticos y estratégicos. Entre ellos, dos empiezan a consolidarse con fuerza en el Perú Urbano: el que busca productos multitarea",
+    "redirectionUrl": "https://gestion.pe/economia/empresas/el-consumidor-peruano-y-dos-nuevos-perfiles-que-redefinen-las-compras-de-lo-multifuncional-a-la-compra-del-producto-dupe-noticia/"
   }
 ]
