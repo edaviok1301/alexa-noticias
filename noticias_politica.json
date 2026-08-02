@@ -1,9 +1,23 @@
 [
   {
     "uid": "politica-001",
-    "updateDate": "2026-08-01T04:31:34.0Z",
+    "updateDate": "2026-08-02T04:30:14.0Z",
     "titleText": "Política",
-    "mainText": "Política. Ollanta Humala abandona el penal de Barbadillo tras resolución del TC. Ollanta Humala sale del penal de Barbadillo tras fallo del Tribunal Constitucional y denuncia persecución política y judicial en su contra",
-    "redirectionUrl": "http://peru21.pe/politica/ollanta-humala-sale-del-penal-de-barbadillo-y-se-pronuncia/"
+    "mainText": "Política. Keiko Fujimori asegura que al Perú “le conviene participar” en el Escudo de las Américas. La presidenta Keiko Fujimori aseguró que al Perú le conviene ser parte del Escudo de las Américas, una coalición político-militar de cooperación internacional centrada en información de inteligencia para combatir la delincuencia transnacional, el narcotráfico y la migración ilegal masiva.",
+    "redirectionUrl": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-asegura-que-al-peru-le-conviene-participar-en-el-escudo-de-las-americas-ultimas-noticia/"
+  },
+  {
+    "uid": "politica-002",
+    "updateDate": "2026-08-02T04:30:14.0Z",
+    "titleText": "Política",
+    "mainText": "Política. PJ ordena a PNP el cese de búsqueda, ubicación y captura de Vladimir Cerrón por caso de aportes a campañas de Perú Libre. El Poder Judicial ordenó a la Policía Nacional que cese sus acciones de búsqueda, ubicación y captura del líder de Perú Libre, Vladimir Cerrón, como parte de la investigación preparatoria que afronta por el presunto financiamiento ilegal de las campañas electorales de su partido político entre los años 2008 y 2021.",
+    "redirectionUrl": "https://rpp.pe/politica/judiciales/vladimir-cerron-pj-ordena-a-pnp-cese-de-busqueda-ubicacion-y-captura-de-lider-de-peru-libre-por-caso-de-aportes-a-campanas-noticia-1699780"
+  },
+  {
+    "uid": "politica-003",
+    "updateDate": "2026-08-02T04:30:14.0Z",
+    "titleText": "Política",
+    "mainText": "Política. Keiko Fujimori evalúa cierre temporal del aeropuerto de Pisco tras accidente de avioneta. Keiko Fujimori evalúa cierre temporal del aeropuerto de Pisco tras caída de avioneta | Keiko Fujimori | avioneta se cae en nasca | aeropuerto de pisco",
+    "redirectionUrl": "http://peru21.pe/politica/keiko-fujimori-evalua-cierre-temporal-del-aeropuerto-de-pisco-tras-accidente-de-avioneta/"
   }
 ]
