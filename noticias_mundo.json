@@ -1,9 +1,23 @@
 [
   {
     "uid": "mundo-001",
-    "updateDate": "2026-08-01T04:32:36.0Z",
+    "updateDate": "2026-08-02T04:30:32.0Z",
     "titleText": "Mundo",
-    "mainText": "Mundo. ¡Insólito! La Casa Blanca usó 'La Mudanza' de Bad Bunny en video sobre deportaciones. La Casa Blanca genera controversia al usar la canción \"La Mudanza\" de Bad Bunny en un video de deportaciones, desatando debate en redes sociales",
-    "redirectionUrl": "http://peru21.pe/mundo/la-casa-blanca-uso-la-mudanza-de-bad-bunny-en-video-sobre-deportaciones-video/"
+    "mainText": "Mundo. Ceuta expone las grietas migratorias de España: las claves de una crisis que revela un Estado “que está fallando”. Ceuta expone las grietas migratorias de España: las claves de una crisis que revela un Estado “que está fallando” | La llegada de unos 60.000 migrantes desde Marruecos a la ciudad autónoma situada en el norte de África desató una crisis sin precedentes.",
+    "redirectionUrl": "https://elcomercio.pe/mundo/europa/ceuta-expone-las-grietas-migratorias-de-espana-las-claves-de-una-crisis-que-revela-un-estado-que-esta-fallando-noticia/"
+  },
+  {
+    "uid": "mundo-002",
+    "updateDate": "2026-08-02T04:30:32.0Z",
+    "titleText": "Mundo",
+    "mainText": "Mundo. Temblor en Chile hoy 1 de agosto: Epicentro del sismo según CSN. ¿Cuál fue el último Temblor en Chile hoy 1 de agosto y registrado por el servicio Sismológico Nacional de Chile (CSN)? Consulta los últimos sismos: magnitud y epicentro del movimiento sísmico.",
+    "redirectionUrl": "https://rpp.pe/mundo/chile/temblor-en-chile-hoy-31-de-julio-epicentro-del-sismo-segun-csn-live-3545"
+  },
+  {
+    "uid": "mundo-003",
+    "updateDate": "2026-08-02T04:30:32.0Z",
+    "titleText": "Mundo",
+    "mainText": "Mundo. \"¿Eres peruana?\": Influencer Roro es acusada de xenofobia en redes sociales. Influencer Roro es acusada de xenofobia contra peruanos en redes sociales | quién es roro | influencer roro | xenofobia | influencer española roro",
+    "redirectionUrl": "http://peru21.pe/mundo/influencer-roro-es-acusada-de-xenofobia-contra-peruanos-en-redes-sociales/"
   }
 ]
