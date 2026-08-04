@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-08-03T04:30:24.0Z",
+    "updateDate": "2026-08-04T04:30:20.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Sesión de Consejo de Ministros de este domingo para evaluar pedido de facultades se postergó, según ministro Alberto Beingolea. El ministro de Cultura, Alberto Beingolea informó que la sesión del Consejo de Ministros programada de este domingo, en donde se vería el pedido de facultades en el Legislativo, se postergó",
-    "redirectionUrl": "https://elcomercio.pe/politica/gobierno/sesion-de-consejo-de-ministros-de-este-domingo-para-evaluar-pedido-de-facultades-se-postergo-indica-ministro-alberto-beingolea-ultimas-noticia/"
+    "mainText": "Economía. Precio del dólar en Perú del martes 4 de agosto: cuál es el tipo de cambio. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, martes 4 de agosto. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-martes-4-de-agosto-cual-es-el-tipo-de-cambio-del-dia-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-08-03T04:30:24.0Z",
+    "updateDate": "2026-08-04T04:30:20.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Petroperú registra utilidades, pero mantiene capital en rojo. A junio de este año observó un menor volumen de ventas de combustibles | Economía | Petroperú | Perú | Nueva Refinería de Talara",
-    "redirectionUrl": "http://peru21.pe/economia/petroperu-registra-utilidades-pero-mantiene-capital-en-rojo/"
+    "mainText": "Economía. La OIT advierte: El fenómeno de El Niño pone en jaque el empleo y los ingresos en América Latina. Una investigación de la OIT explica cómo la alteración en los patrones de precipitación asociada al fenómeno repercute sobre la agricultura, la pesca, la energía, la logística y otros sectores económicos, con posibles consecuencias sobre el empleo, la inseguridad alimentaria, el aumento de precios de alimentos y energía, así como un mayor riesgo de trabajo infantil.",
+    "redirectionUrl": "https://rpp.pe/economia/internacional/la-oit-advierte-el-fenomeno-de-el-nino-pone-en-jaque-el-empleo-y-los-ingresos-en-america-latina-noticia-1699985"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-08-03T04:30:24.0Z",
+    "updateDate": "2026-08-04T04:30:20.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. El consumidor peruano lo quiere todo: los dos nuevos perfiles que redefinen las compras. El consumidor peruano viene cambiando por diversas influencias. La restricción del espacio en la vivienda, la presión sobre el presupuesto familiar y la democratización de las tendencias a través de redes sociales están dando paso a nuevos perfiles de compradores más pragmáticos y estratégicos. Entre ellos, dos empiezan a consolidarse con fuerza en el Perú Urbano: el que busca productos multitarea",
-    "redirectionUrl": "https://gestion.pe/economia/empresas/el-consumidor-peruano-y-dos-nuevos-perfiles-que-redefinen-las-compras-de-lo-multifuncional-a-la-compra-del-producto-dupe-noticia/"
+    "mainText": "Economía. Precio del petróleo baja por anuncio de Trump. El dólar en el Perú, en tanto, se mantuvo estable e inició el mes de agosto cotizándose en S/3.399 | Petróleo | Economía",
+    "redirectionUrl": "http://peru21.pe/economia/precio-del-petroleo-cae-por-anuncio-de-trump/"
+  },
+  {
+    "uid": "economia-004",
+    "updateDate": "2026-08-04T04:30:20.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. La otra cara del aumento de la RMV: ¿Cuánto le cuesta a las empresas?. El incremento de la remuneración mínima vital (RMV) de S/1,130 a S/1,300, traerá consigo un impacto que va mucho más allá de los S/170 adicionales que recibirán los trabajadores que perciben el salario mínimo.",
+    "redirectionUrl": "https://gestion.pe/economia/management-empleo/sueldo-minimo-la-otra-cara-del-aumento-de-la-rmv-que-cambia-para-las-empresas-y-cuanto-les-costara-noticia/"
   }
 ]
