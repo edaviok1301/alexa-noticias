@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-08-07T04:30:19.0Z",
+    "updateDate": "2026-08-08T04:30:23.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Midagri designa a viceministros de Desarrollo de Agricultura Familiar y de Políticas y Supervisión del Desarrollo Agrario. El Poder Ejecutivo designó a José Angello Tangherlini Casal como nuevo viceministro de Desarrollo de Agricultura Familiar e Infraestructura Agraria y Riego del Ministerio de Agricultura y Desarrollo Agrario (Midagri).",
-    "redirectionUrl": "https://elcomercio.pe/economia/peru/midagri-designa-a-viceministros-de-desarrollo-de-agricultura-familiar-y-de-politicas-y-supervision-del-desarrollo-agrario-ultimas-noticia/"
+    "mainText": "Economía. Elmer Cuba, ministro de Economía y Finanzas: “Los feriados podrán ser viernes o lunes, lo que está en evaluación es cuándo lo sacamos”. El titular del MEF comenta que espera destinar alrededor de S/2.500 millones al manejo de la emergencia climática. Asegura que la informalidad laboral podría bajar de 70% a 50% en cinco años con las normas laborales y tributarias que planteará el Ejecutivo. Además, estamos a punto de ver una reducción del precio de los combustibles con la reactivación del Fondo de Estabilización de Precios de los ",
+    "redirectionUrl": "https://elcomercio.pe/economia/peru/mef-elmer-cuba-ministro-de-economia-y-finanzas-podriamos-crecer-6-en-la-segunda-parte-del-gobierno-entrevista-sueldo-minimo-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-08-07T04:30:19.0Z",
+    "updateDate": "2026-08-08T04:30:23.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Se enfría el optimismo sobre Oriente Medio y el petróleo reanuda su tendencia al alza. El mercado observa también la evolución de la situación en torno al mar Rojo, otro foco clave del conflicto y el petróleo reanuda su tendencia al alza",
-    "redirectionUrl": "http://peru21.pe/economia/se-enfria-optimismo-sobre-oriente-medio-y-el-petroleo-reanuda-tendencia-al-alza/"
+    "mainText": "Economía. Proinversión realizó primera subasta pública de inmuebles de Petroperú. La adjudicación del \"Chalet Paillardelle\" y el ex Petrocentro Cañete marca el inicio de la monetización de activos no estratégicos de la petrolera estatal.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/proinversion-realizo-con-exito-primera-subasta-publica-de-inmuebles-de-petroperu-noticia-1700628"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-08-07T04:30:19.0Z",
+    "updateDate": "2026-08-08T04:30:23.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Petroperú cambia su organigrama: ¿la razón de la “caída” del directorio?. El Directorio también aprobó una nueva estructura que considera una Gerencia de Riesgos y la Jefatura de Prevención de Lavado de Activos y Financiamiento del Terrorismo (LAFT).",
-    "redirectionUrl": "https://gestion.pe/economia/petroperu-da-paso-clave-para-acceder-a-financiamiento-y-crea-gerencia-de-auditoria-interna-noticia/"
+    "mainText": "Economía. Elmer Cuba anuncia que la mayoría de feriados serán trasladados. El gobierno peruano trasladará feriados al viernes desde 2027 para mejorar la productividad y fomentar el turismo, manteniendo excepciones para fechas clave",
+    "redirectionUrl": "http://peru21.pe/economia/que-hara-el-ejecutivo-con-los-16-feriados-que-hay-en-el-peru/"
+  },
+  {
+    "uid": "economia-004",
+    "updateDate": "2026-08-08T04:30:23.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Jubilados ONP recibirán 25% más en su pensión de agosto: ¿Quiénes acceden a este beneficio?. Los jubilados de la Oficina de Normalización Previsional (ONP) que han cumplido 80 años cuentan con un beneficio que les permite incrementar sus ingresos mensuales. Se trata de la Bonificación por Edad Avanzada (BEA), que equivale al 25% de la pensión que percibía el asegurado al momento de alcanzar dicha edad.",
+    "redirectionUrl": "https://gestion.pe/tu-dinero/finanzas-personales/jubilados-onp-reciben-25-mas-en-su-pension-de-agosto-quienes-acceden-a-este-beneficio-noticia/"
   }
 ]
