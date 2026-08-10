@@ -1,30 +1,23 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-08-09T04:30:53.0Z",
+    "updateDate": "2026-08-10T04:30:51.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar en Perú: a cuánto cerró el tipo de cambio el sábado 8 de agosto. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, sábado 8 de agosto. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-a-cuanto-esta-el-dolar-este-sabado-8-de-agosto-tipo-de-cambio-segun-el-bcrp-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Precio del dólar hoy: a cuánto está el tipo de cambio este domingo 9 de agosto. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, domingo 9 de agosto. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-domingo-9-de-agosto-a-cuanto-esta-el-dolar-y-tipo-de-cambio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-08-09T04:30:53.0Z",
+    "updateDate": "2026-08-10T04:30:51.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Adex respaldó propuesta del MEF para trasladar feriados a los lunes: \"Medida busca preservar la continuidad productiva\". La Asociación de Exportadores (Adex) afirmó que la medida beneficiará a sectores clave como la industria, el comercio y el turismo, compatibilizando el descanso de los trabajadores con el crecimiento económico del país.",
-    "redirectionUrl": "https://rpp.pe/economia/economia/adex-respaldo-propuesta-del-mef-para-trasladar-feriados-a-los-lunes-medida-busca-preservar-la-continuidad-productiva-noticia-1700716"
+    "mainText": "Economía. Créditos de consumo ya crecen a tasa de doble dígito. Créditos de consumo ya crecen a tasa de doble dígito",
+    "redirectionUrl": "http://peru21.pe/economia/creditos-de-consumo-ya-crecen-tasa-de-doble-digito/"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-08-09T04:30:53.0Z",
+    "updateDate": "2026-08-10T04:30:51.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. ADEX saluda propuesta para trasladar los feriados a los lunes. ADEX saluda propuesta para trasladar los feriados a los lunes | ADEX | Asociación de Exportadores | feriados en perú | MEF |",
-    "redirectionUrl": "http://peru21.pe/economia/adex-saluda-propuesta-para-trasladar-los-feriados-los-lunes/"
-  },
-  {
-    "uid": "economia-004",
-    "updateDate": "2026-08-09T04:30:53.0Z",
-    "titleText": "Economía",
-    "mainText": "Economía. Feriados en Perú: MEF anuncia cambios y ahora se moverán a los lunes. “Hay estudios que muestran que cuando un feriado [se ubica] entre los martes y jueves, la productividad cae más respecto a si lo mueves un lunes o un viernes”, dijo el ministro de Economía y Finanzas, Elmer Cuba.",
-    "redirectionUrl": "https://gestion.pe/economia/feriados-en-peru-mef-anuncia-cambios-y-ahora-se-moveran-a-los-viernes-noticia/"
+    "mainText": "Economía. Jubilados ONP recibirán 25% más en su pensión de agosto: ¿Quiénes acceden a este beneficio?. Los jubilados de la Oficina de Normalización Previsional (ONP) que han cumplido 80 años cuentan con un beneficio que les permite incrementar sus ingresos mensuales. Se trata de la Bonificación por Edad Avanzada (BEA), que equivale al 25% de la pensión que percibía el asegurado al momento de alcanzar dicha edad.",
+    "redirectionUrl": "https://gestion.pe/tu-dinero/finanzas-personales/jubilados-onp-reciben-25-mas-en-su-pension-de-agosto-quienes-acceden-a-este-beneficio-noticia/"
   }
 ]
