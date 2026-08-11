@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-08-10T04:30:51.0Z",
+    "updateDate": "2026-08-11T04:30:45.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar hoy: a cuánto está el tipo de cambio este domingo 9 de agosto. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, domingo 9 de agosto. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-domingo-9-de-agosto-a-cuanto-esta-el-dolar-y-tipo-de-cambio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Precio del dólar en Perú: consulta la cotización en compra y venta del martes 11 de agosto. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, martes 11 de agosto. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-2026-a-cuanto-esta-el-dolar-este-martes-11-de-agosto-tipo-de-cambio-segun-el-bcrp-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-08-10T04:30:51.0Z",
+    "updateDate": "2026-08-11T04:30:45.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Créditos de consumo ya crecen a tasa de doble dígito. Créditos de consumo ya crecen a tasa de doble dígito",
-    "redirectionUrl": "http://peru21.pe/economia/creditos-de-consumo-ya-crecen-tasa-de-doble-digito/"
+    "mainText": "Economía. Pensión mínima en las AFP a punto de implementarse: “ya está reglamentado al 99%”, señaló Aldo Ferrini, CEO de AFP Integra. Los afiliados a las AFP necesitarán 20 años de aportes para acceder a la pensión mínima completa y entre 10 y 20 años para una pensión proporcional. El gerente general de AFP Integra, Aldo Ferrini, señaló que solo faltan algunos detalles por definir entre la SBS, la ONP y el MEF.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/pension-minima-en-las-afp-a-punto-de-implementarse-ya-esta-reglamentado-al-99-senalo-aldo-ferrini-ceo-de-afp-integra-noticia-1700923"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-08-10T04:30:51.0Z",
+    "updateDate": "2026-08-11T04:30:45.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Jubilados ONP recibirán 25% más en su pensión de agosto: ¿Quiénes acceden a este beneficio?. Los jubilados de la Oficina de Normalización Previsional (ONP) que han cumplido 80 años cuentan con un beneficio que les permite incrementar sus ingresos mensuales. Se trata de la Bonificación por Edad Avanzada (BEA), que equivale al 25% de la pensión que percibía el asegurado al momento de alcanzar dicha edad.",
-    "redirectionUrl": "https://gestion.pe/tu-dinero/finanzas-personales/jubilados-onp-reciben-25-mas-en-su-pension-de-agosto-quienes-acceden-a-este-beneficio-noticia/"
+    "mainText": "Economía. WALL STREET CIERRA EN ROJO: ¿Qué está pasando con la bolsa más importante del mundo?. WALL STREET CIERRA EN ROJO: ¿Qué está pasando con la bolsa más importante del mundo?",
+    "redirectionUrl": "http://peru21.pe/economia/wall-street-cierra-en-rojo-que-esta-pasando-con-la-bolsa-mas-importante-del-mundo/"
+  },
+  {
+    "uid": "economia-004",
+    "updateDate": "2026-08-11T04:30:45.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. ¿Chiwok podía registrarse? La decisión del Indecopi tras la oposición de Chinawok. El Tribunal de Indecopi confirmó el rechazo al registro de Chiwok al determinar que su semejanza con Chinawok podía inducir a error a los consumidores sobre el origen de los servicios.",
+    "redirectionUrl": "https://gestion.pe/economia/empresas/chinawok-vs-chiwok-asi-termino-la-disputa-por-una-marca-ante-indecopi-noticia/"
   }
 ]
