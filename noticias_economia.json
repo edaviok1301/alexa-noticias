@@ -1,30 +1,23 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-08-16T04:30:23.0Z",
+    "updateDate": "2026-08-17T04:30:22.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar en Perú: consulta la cotización en compra y venta del domingo 16 de agosto. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, domingo 16 de agosto. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-2026-a-cuanto-esta-el-dolar-este-domingo-16-de-agosto-tipo-de-cambio-segun-el-bcrp-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Seguros, créditos hipotecarios y más: ¿qué pasa con una vivienda si un sismo la deja inhabitable o la destruye?. Una póliza puede cubrir desde la reparación de una vivienda hasta una pérdida total, además de alojamiento temporal y retiro de escombros. Sin embargo, el alcance depende del contrato. ¿Qué ocurre si el inmueble tiene una hipoteca, qué pasa con el terreno y cuánto cuesta proteger una propiedad frente a un sismo?",
+    "redirectionUrl": "https://elcomercio.pe/economia/peru/seguros-creditos-hipotecarios-y-mas-que-pasa-con-una-vivienda-si-un-sismo-la-deja-inhabitable-o-la-destruye-terremoto-en-colombia-terremoto-en-venezuela-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-08-16T04:30:23.0Z",
+    "updateDate": "2026-08-17T04:30:22.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. INEI: Economía peruana creció 3.05 % en el primer semestre de 2026. El Instituto Nacional de Estadística e Informática (INEI) señaló que, en el periodo anualizado (julio 2025-junio 2026), la actividad productiva del país presentó un incremento de 3,33 %.",
-    "redirectionUrl": "https://rpp.pe/economia/economia/inei-economia-peruana-crecio-305-en-el-primer-semestre-de-2026-noticia-1701829"
+    "mainText": "Economía. Municipios con mayor presupuesto avanzan poco en inversión pública. Gobiernos locales en Perú solo han ejecutado el 38.2% de su presupuesto para inversión pública, con Junín y La Libertad mostrando el mayor rezago.",
+    "redirectionUrl": "http://peru21.pe/economia/municipios-con-mayor-presupuesto-avanzan-poco-en-inversion-publica/"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-08-16T04:30:23.0Z",
+    "updateDate": "2026-08-17T04:30:22.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Petroperú trabaja con el Gobierno y privados para reforzar abastecimiento de combustibles en Ucayali. Petroperú trabaja con el Gobierno y privados para reforzar abastecimiento de combustibles en Ucayali | petroperú | ucayali | paro en ucayali |",
-    "redirectionUrl": "http://peru21.pe/economia/petroperu-trabaja-con-el-gobierno-y-privados-para-reforzar-abastecimiento-de-combustibles-en-ucayali/"
-  },
-  {
-    "uid": "economia-004",
-    "updateDate": "2026-08-16T04:30:23.0Z",
-    "titleText": "Economía",
-    "mainText": "Economía. Trabajadores CAS superan los 376,000: así aumentaron en el Estado año a año, ¿y su perfil?. Gestión identificó que, en los últimos 10 años, el incremento de este número de trabajadores fue de casi 50%. ¿Qué cantidad representan del empleo total en el Estado? Los detalles.",
-    "redirectionUrl": "https://gestion.pe/economia/trabajadores-cas-crecieron-mas-de-45-en-ultimos-10-anos-hasta-superar-los-376-mil-noticia/"
+    "mainText": "Economía. Administración desafía a la IA: ¿por qué sigue entre las carreras más demandadas?. La inteligencia artificial y la automatización están cambiando la forma en que las empresas trabajan, pero no han desplazado la necesidad de profesionales capaces de gestionar personas, recursos y decisiones. De hecho, Administración se mantiene entre las carreras universitarias con mayor demanda laboral proyectada para 2026: la Encuesta de Demanda Ocupacional (EDO) del Ministerio de Trabajo y Pro",
+    "redirectionUrl": "https://gestion.pe/economia/management-empleo/administracion-desafia-a-la-ia-por-que-sigue-entre-las-carreras-mas-demandadas-noticia/"
   }
 ]
