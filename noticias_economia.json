@@ -1,30 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-08-19T04:30:20.0Z",
+    "updateDate": "2026-08-20T04:30:19.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Dólar cierra al alza en S/3,36 mientras mercado espera minutas de la Fed. El precio del dólar cerró la sesión en S/3,364, registrando un avance de (+0,15%) frente al cierre previo, en un contexto de leve apreciación del dólar a nivel global.",
-    "redirectionUrl": "https://elcomercio.pe/economia/peru/dolar-cierra-al-alza-en-s336-mientras-mercado-espera-minutas-de-la-fed-l-tipo-de-cambio-l-ultimas-noticia/"
+    "mainText": "Economía. Mina Las Bambas, operada por MMG, suspende operaciones tras accidente fatal. Dos trabajadores sufrieron lesiones fatales en Las Bambas tras un accidente durante el reemplazo de una bomba en la poza de clarificación, aproximadamente a 9 kilómetros de la planta de procesos de la mina, informó MMG. Se espera un reinicio progresivo a partir del 21 de agosto.",
+    "redirectionUrl": "https://elcomercio.pe/economia/peru/mina-las-bambas-operada-por-mmg-suspende-operaciones-tras-accidente-fatal-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-08-19T04:30:20.0Z",
+    "updateDate": "2026-08-20T04:30:19.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Gobierno anuncia reforma del canon minero para redirigir los recursos directamente a las comunidades. El ministro de Energía y Minas, Guillermo Shinno, sostuvo que se impulsarán modificaciones estructurales al canon para que una parte de estos recursos sea destinada directamente a las comunidades y zonas aledañas a las operaciones mineras.",
-    "redirectionUrl": "https://rpp.pe/economia/economia/mineria-en-peru-gobierno-anuncia-reforma-canon-minero-que-impactara-a-comunidades-de-que-trata-noticia-1702223"
+    "mainText": "Economía. Perú tiene lo que el mundo necesita para la transición energética: produce más del 50% de los minerales críticos. Tamiko Hasegawa, presidenta del GESS 2026, destacó el potencial del país en minerales como el cobre y el litio, pero enfatizó que la transformación del sector también debe generar oportunidades para jóvenes y mujeres.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/peru-produce-mas-del-50-de-los-minerales-criticos-que-el-mundo-necesita-para-la-transicion-energetica-noticia-1702553"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-08-19T04:30:20.0Z",
+    "updateDate": "2026-08-20T04:30:19.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Elmer Cuba sobre Petroperú: \"La idea es cambiar el statu quo\". Ministro de Economía aseguró que si el directorio falla, y el sindicato no colabora, Petroperú va a quedar en manos de los acreedores | Petroperú | Elmer Cuba",
-    "redirectionUrl": "http://peru21.pe/economia/elmer-cuba-sobre-petroperu-la-idea-es-cambiar-el-status-quo/"
+    "mainText": "Economía. ¿Qué puesto ocupa el Perú en el Índice de Resiliencia Macroeconómica?. La Cámara de Comercio de Lima presenta el Índice de Resiliencia Macroeconómica, destacando a Perú | CCL | Economía | Crisis",
+    "redirectionUrl": "http://peru21.pe/economia/que-puesto-ocupa-el-peru-en-el-indice-de-resiliencia-macroeconomica/"
   },
   {
     "uid": "economia-004",
-    "updateDate": "2026-08-19T04:30:20.0Z",
+    "updateDate": "2026-08-20T04:30:19.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Administración desafía a la IA: ¿por qué sigue entre las carreras más demandadas?. La inteligencia artificial y la automatización están cambiando la forma en que las empresas trabajan, pero no han desplazado la necesidad de profesionales capaces de gestionar personas, recursos y decisiones. De hecho, Administración se mantiene entre las carreras universitarias con mayor demanda laboral proyectada para 2026: la Encuesta de Demanda Ocupacional (EDO) del Ministerio de Trabajo y Pro",
-    "redirectionUrl": "https://gestion.pe/economia/management-empleo/administracion-desafia-a-la-ia-por-que-sigue-entre-las-carreras-mas-demandadas-noticia/"
+    "mainText": "Economía. Combustibles: Osinergmin busca facilitar su abastecimiento en Ucayali, ¿cómo?. Entidad aprueba medidas excepcionales y transitorias pra suministro de Diesel y gasolina",
+    "redirectionUrl": "https://gestion.pe/economia/combustibles-osinergmin-busca-facilitar-su-abastecimiento-en-ucayali-noticia/"
   }
 ]
