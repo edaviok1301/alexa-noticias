@@ -1,30 +1,23 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-08-21T04:30:20.0Z",
+    "updateDate": "2026-08-22T04:30:20.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Movistar habilita SMS gratuitos en Ayacucho tras sismo de magnitud 7.2. Movistar Perú informó que habilitó el envío gratuito de mensajes de texto (SMS) para sus clientes en el departamento de Ayacucho, como medida de apoyo tras el sismo de magnitud 7,2 registrado este jueves 20 de agosto.",
-    "redirectionUrl": "https://elcomercio.pe/economia/terremoto-en-ayacucho-movistar-habilita-sms-gratuitos-en-la-region-tras-sismo-de-magnitud-72-ultimas-noticia/"
+    "mainText": "Economía. Pensiones de maestros: Colegio de Economistas oficializa demanda ante el Tribunal Constitucional y advierte costo de S/13 mil 400 millones. El Colegio de Economistas de Lima presentó al TC la demanda para derogar la ley de pensiones a maestros jubilados y cesantes. En sus argumentos, el gremio cuestiona que el Congreso haya aprobado el beneficio sin definir cómo se financiará.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/pensiones-de-maestros-colegio-de-economistas-oficializa-demanda-ante-el-tribunal-constitucional-y-advierte-costo-de-s-13-mil-400-millones-noticia-1702908"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-08-21T04:30:20.0Z",
+    "updateDate": "2026-08-22T04:30:20.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Sismos, Fenómeno El Niño y otros riesgos: solo el 0,4% de colegios y 5,3% de centros de salud públicos cuenta con seguro ante desastres. La cobertura financiera de la infraestructura pública frente a terremotos y otros desastres sigue siendo limitada. Apeseg advierte que, ante un evento de gran magnitud, el 95% de las pérdidas tendría que ser asumido por el Estado o financiado mediante deuda de emergencia.",
-    "redirectionUrl": "https://rpp.pe/economia/economia/sismos-en-peru-solo-04-de-colegios-y-53-de-establecimientos-de-salud-cuenta-con-seguro-ante-desastres-como-terremotos-noticia-1702772"
+    "mainText": "Economía. Feria Trueque de Falabella proyecta un ahorro acumulado de más de 115 millones de litros de agua. Descubre la Feria Trueque de Falabella, un evento de moda circular que promueve el intercambio de prendas, ahorrando agua y reduciendo emisiones de CO2.",
+    "redirectionUrl": "http://peru21.pe/economia/feria-trueque-de-falabella-proyecta-un-ahorro-acumulado-de-mas-de-115-millones-de-litros-de-agua/"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-08-21T04:30:20.0Z",
+    "updateDate": "2026-08-22T04:30:20.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Crece producción de cobre, pero cae la de oro. En el primer semestre también retrocedió la producción de zinc, plata, plomo y molibdeno | Cobre | Oro | Ministerio de Energía y Minas | Minería",
-    "redirectionUrl": "http://peru21.pe/economia/crece-produccion-de-cobre-pero-cae-la-de-oro/"
-  },
-  {
-    "uid": "economia-004",
-    "updateDate": "2026-08-21T04:30:20.0Z",
-    "titleText": "Economía",
-    "mainText": "Economía. El negocio detrás del “sí, acepto”: bodas podrían movilizar S/ 1,440 millones al año. Una boda puede durar apenas unas horas. Pero antes de que empiece, y mucho después de que termine, pone en marcha una maquinaria de decenas de proveedores, trabajadores y negocios. Hay wedding planners, empresas de catering, fotógrafos, músicos y decoradores. Pero también participan hoteles, servicios de transporte, maquillaje, diseño de modas, joyería, producción, tecnología. Empresas grandes, ne",
-    "redirectionUrl": "https://gestion.pe/economia/empresas/el-negocio-detras-del-si-acepto-industria-de-bodas-podrian-movilizar-s-1440-millones-al-ano-noticia/"
+    "mainText": "Economía. ¿Volt tiene nueva rival? Gorilla Energy, la neoyorquina que quiere conquistar Perú. Gorilla Energy registra su marca en Perú y abre la puerta a un posible ingreso al mercado local de bebidas energéticas.",
+    "redirectionUrl": "https://gestion.pe/economia/empresas/adios-al-reinado-de-volt-energizante-neoyorquino-pone-la-mira-en-peru-noticia/"
   }
 ]
