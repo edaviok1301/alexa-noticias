@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-08-22T04:30:20.0Z",
+    "updateDate": "2026-08-23T04:30:19.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Pensiones de maestros: Colegio de Economistas oficializa demanda ante el Tribunal Constitucional y advierte costo de S/13 mil 400 millones. El Colegio de Economistas de Lima presentó al TC la demanda para derogar la ley de pensiones a maestros jubilados y cesantes. En sus argumentos, el gremio cuestiona que el Congreso haya aprobado el beneficio sin definir cómo se financiará.",
-    "redirectionUrl": "https://rpp.pe/economia/economia/pensiones-de-maestros-colegio-de-economistas-oficializa-demanda-ante-el-tribunal-constitucional-y-advierte-costo-de-s-13-mil-400-millones-noticia-1702908"
+    "mainText": "Economía. Arequipa: Bloqueo en la Panamericana Sur por lluvias y huaicos deja más de S/ 100 millones en pérdidas. La Cámara de Comercio e Industria de Arequipa informó que la interrupción del tránsito afecta el abastecimiento de productos y combustibles en la región",
+    "redirectionUrl": "https://elcomercio.pe/economia/peru/arequipa-bloqueo-en-la-panamericana-sur-por-lluvias-y-huaicos-deja-mas-de-s-100-millones-en-perdidas-ultimas-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-08-22T04:30:20.0Z",
+    "updateDate": "2026-08-23T04:30:19.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Feria Trueque de Falabella proyecta un ahorro acumulado de más de 115 millones de litros de agua. Descubre la Feria Trueque de Falabella, un evento de moda circular que promueve el intercambio de prendas, ahorrando agua y reduciendo emisiones de CO2.",
-    "redirectionUrl": "http://peru21.pe/economia/feria-trueque-de-falabella-proyecta-un-ahorro-acumulado-de-mas-de-115-millones-de-litros-de-agua/"
+    "mainText": "Economía. INEI: El sector Comercio creció 6,17 % en el primer semestre del 2026. La actividad comercial peruana consolidó una evolución favorable durante la primera mitad del año.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/inei-el-sector-comercio-crecio-617-en-el-primer-semestre-del-2026-noticia-1703135"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-08-22T04:30:20.0Z",
+    "updateDate": "2026-08-23T04:30:19.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. ¿Volt tiene nueva rival? Gorilla Energy, la neoyorquina que quiere conquistar Perú. Gorilla Energy registra su marca en Perú y abre la puerta a un posible ingreso al mercado local de bebidas energéticas.",
-    "redirectionUrl": "https://gestion.pe/economia/empresas/adios-al-reinado-de-volt-energizante-neoyorquino-pone-la-mira-en-peru-noticia/"
+    "mainText": "Economía. ¿Qué acciones puede tomar el Ejecutivo para aumentar la recaudación?. Analista señala que es necesario ampliar el número de contribuyentes | Economía | Recaudación | Fiscalización | Estado | Perú",
+    "redirectionUrl": "http://peru21.pe/economia/que-acciones-puede-tomar-el-ejecutivo-para-aumentar-la-recaudacion/"
+  },
+  {
+    "uid": "economia-004",
+    "updateDate": "2026-08-23T04:30:19.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Embarcadero 41 sigue expansión en Perú mientras crece con nueva ubicación en Chile. Embarcadero 41 creció 12% en el primer semestre de 2026 y evalúa nuevas aperturas en Perú, Estados Unidos y Chile para lo que resta del año y 2027.",
+    "redirectionUrl": "https://gestion.pe/economia/empresas/embarcadero-41-alista-nuevos-locales-con-segundo-restaurante-en-chile-noticia/"
   }
 ]
