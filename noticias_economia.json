@@ -1,30 +1,23 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-08-23T04:30:19.0Z",
+    "updateDate": "2026-08-24T04:30:21.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Arequipa: Bloqueo en la Panamericana Sur por lluvias y huaicos deja más de S/ 100 millones en pérdidas. La Cámara de Comercio e Industria de Arequipa informó que la interrupción del tránsito afecta el abastecimiento de productos y combustibles en la región",
-    "redirectionUrl": "https://elcomercio.pe/economia/peru/arequipa-bloqueo-en-la-panamericana-sur-por-lluvias-y-huaicos-deja-mas-de-s-100-millones-en-perdidas-ultimas-noticia/"
+    "mainText": "Economía. Precio del dólar del lunes 24 de agosto: cuál es el tipo de cambio. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 24 de agosto. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-a-cuanto-esta-el-dolar-y-tipo-de-cambio-este-lunes-24-de-agosto-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-08-23T04:30:19.0Z",
+    "updateDate": "2026-08-24T04:30:21.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. INEI: El sector Comercio creció 6,17 % en el primer semestre del 2026. La actividad comercial peruana consolidó una evolución favorable durante la primera mitad del año.",
-    "redirectionUrl": "https://rpp.pe/economia/economia/inei-el-sector-comercio-crecio-617-en-el-primer-semestre-del-2026-noticia-1703135"
+    "mainText": "Economía. MEF destaca que inversión privada creció 17.6 % en segundo trimestre. La inversión privada en Perú creció 17.6% en el segundo trimestre, impulsada por la minería y obras de infraestructura, mostrando una sólida recuperación económica.",
+    "redirectionUrl": "http://peru21.pe/economia/mef-destaca-que-inversion-privada-crecio-176-en-segundo-trimestre/"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-08-23T04:30:19.0Z",
+    "updateDate": "2026-08-24T04:30:21.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. ¿Qué acciones puede tomar el Ejecutivo para aumentar la recaudación?. Analista señala que es necesario ampliar el número de contribuyentes | Economía | Recaudación | Fiscalización | Estado | Perú",
-    "redirectionUrl": "http://peru21.pe/economia/que-acciones-puede-tomar-el-ejecutivo-para-aumentar-la-recaudacion/"
-  },
-  {
-    "uid": "economia-004",
-    "updateDate": "2026-08-23T04:30:19.0Z",
-    "titleText": "Economía",
-    "mainText": "Economía. Embarcadero 41 sigue expansión en Perú mientras crece con nueva ubicación en Chile. Embarcadero 41 creció 12% en el primer semestre de 2026 y evalúa nuevas aperturas en Perú, Estados Unidos y Chile para lo que resta del año y 2027.",
-    "redirectionUrl": "https://gestion.pe/economia/empresas/embarcadero-41-alista-nuevos-locales-con-segundo-restaurante-en-chile-noticia/"
+    "mainText": "Economía. Petroperú: TC revisará en audiencia pública demanda contra reorganización de la empresa. Se analizará la demanda interpuesta por la Defensoría del Pueblo y la presentada por la Municipalidad Provincial de Talara",
+    "redirectionUrl": "https://gestion.pe/economia/petroperu-tc-revisara-en-audiencia-publica-demanda-contra-reorganizacion-de-la-empresa-noticia/"
   }
 ]
