@@ -1,7 +1,14 @@
 [
   {
     "uid": "gastronomia-001",
-    "updateDate": "2026-08-24T04:30:40.0Z",
+    "updateDate": "2026-08-25T04:30:53.0Z",
+    "titleText": "Gastronomía",
+    "mainText": "Gastronomía. Sastrería Martínez ya no necesita contraseña: la nueva propuesta del premiado bar. Sastrería Martínez ya no necesita contraseña: la nueva propuesta del premiado bar | El bar clandestino, puesto 33 en The World’s 50 Best Bars 2025, presenta una carta inspirada en los textiles del Perú.",
+    "redirectionUrl": "https://elcomercio.pe/somos/gastronomia/sastreria-martinez-ya-no-necesita-contrasena-la-nueva-propuesta-del-premiado-bar-noticia/"
+  },
+  {
+    "uid": "gastronomia-002",
+    "updateDate": "2026-08-25T04:30:53.0Z",
     "titleText": "Gastronomía",
     "mainText": "Gastronomía. Café peruano, gastronomía y cuatro torneos: festival gratuito llega a Jesús María. Café peruano, gastronomía y cuatro torneos: festival gratuito llega a Jesús María",
     "redirectionUrl": "http://peru21.pe/gastronomia/cafe-peruano-gastronomia-y-cuatro-torneos-festival-gratuito-llega-jesus-maria/"
