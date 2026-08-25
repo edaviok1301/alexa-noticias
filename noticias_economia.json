@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-08-24T04:30:21.0Z",
+    "updateDate": "2026-08-25T04:30:27.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar del lunes 24 de agosto: cuál es el tipo de cambio. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 24 de agosto. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-a-cuanto-esta-el-dolar-y-tipo-de-cambio-este-lunes-24-de-agosto-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Precio del dólar en Perú: consulta la cotización en compra y venta del martes 25 de agosto. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, martes 25 de agosto. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-a-cuanto-esta-el-dolar-este-martes-25-de-agosto-tipo-de-cambio-segun-el-bcrp-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-08-24T04:30:21.0Z",
+    "updateDate": "2026-08-25T04:30:27.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. MEF destaca que inversión privada creció 17.6 % en segundo trimestre. La inversión privada en Perú creció 17.6% en el segundo trimestre, impulsada por la minería y obras de infraestructura, mostrando una sólida recuperación económica.",
-    "redirectionUrl": "http://peru21.pe/economia/mef-destaca-que-inversion-privada-crecio-176-en-segundo-trimestre/"
+    "mainText": "Economía. Gobierno cierra la puerta, por ahora, a una gestión privada en Petroperú: “Hoy no está pensado”, afirmó el titular del Minem. El ministro Guillermo Shinno señaló que primero se buscará que las líneas de negocio de la petrolera estatal, como la refinería de Talara, sean rentables y autosostenibles. Aunque dejó abierta la posibilidad de recurrir a esquemas alternativos, como la gerencia privada, si alguna no logra ser rentable.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/petroperu-gobierno-descarta-por-ahora-una-administracion-privada-en-la-refineria-de-talara-noticia-1703436"
   },
   {
     "uid": "economia-003",
-    "updateDate": "2026-08-24T04:30:21.0Z",
+    "updateDate": "2026-08-25T04:30:27.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Petroperú: TC revisará en audiencia pública demanda contra reorganización de la empresa. Se analizará la demanda interpuesta por la Defensoría del Pueblo y la presentada por la Municipalidad Provincial de Talara",
-    "redirectionUrl": "https://gestion.pe/economia/petroperu-tc-revisara-en-audiencia-publica-demanda-contra-reorganizacion-de-la-empresa-noticia/"
+    "mainText": "Economía. AGAP anuncia S/108 millones para afrontar los impactos del Fenómeno El Niño. AGAP destinará S/108 millones para prevenir y responder al Fenómeno El Niño en Perú, priorizando zonas de riesgo con donaciones y Obras por Impuestos.",
+    "redirectionUrl": "http://peru21.pe/economia/agap-anuncia-s108-millones-para-afrontar-los-impactos-del-fenomeno-el-nino/"
+  },
+  {
+    "uid": "economia-004",
+    "updateDate": "2026-08-25T04:30:27.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Un giro en las operaciones de Minsur: se acelera el uso de IA en la minería. La aplicación de la inteligencia artificial en las mineras comenzó antes del actual auge de la IA generativa.",
+    "redirectionUrl": "https://gestion.pe/economia/minsur-y-la-ia-se-acelera-el-uso-de-la-inteligencia-artificial-en-la-mineria-y-se-refleja-en-cambios-en-las-operaciones-de-la-compania-noticia/"
   }
 ]
