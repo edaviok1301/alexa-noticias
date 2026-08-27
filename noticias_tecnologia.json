@@ -1,14 +1,21 @@
 [
   {
     "uid": "tecnologia-001",
-    "updateDate": "2026-08-26T04:30:23.0Z",
+    "updateDate": "2026-08-27T04:30:30.0Z",
     "titleText": "Tecnología",
-    "mainText": "Tecnología. ¿Un refrigerador para humanos?: los extremos utilizados por los trabajadores japoneses durante la nueva ola de calor. El dispositivo, del tamaño aproximado de una cabina telefónica, utiliza chorros de aire a 5º C para mantener una temperatura fría. Se lanzó este año, pero ya se convirtió en un éxito en un país que enfrenta un aumento constante de las temperaturas",
-    "redirectionUrl": "https://elcomercio.pe/tecnologia/actualidad/un-refrigerador-para-humanos-los-extremos-utilizados-por-los-trabajadores-japoneses-durante-la-nueva-ola-de-calor-noticia/"
+    "mainText": "Tecnología. Viudas y huérfanos de Saweto afrontan dificultades económicas mientras esperan que se cumpla con el pago de la reparación civil. Viudas y huérfanos de Saweto afrontan dificultades económicas mientras esperan que se cumpla con el pago de la reparación civil",
+    "redirectionUrl": "https://elcomercio.pe/tecnologia/ecologia/viudas-y-huerfanos-de-saweto-afrontan-dificultades-economicas-mientras-esperan-que-se-cumpla-con-el-pago-de-la-reparacion-civil-noticia/"
   },
   {
     "uid": "tecnologia-002",
-    "updateDate": "2026-08-26T04:30:23.0Z",
+    "updateDate": "2026-08-27T04:30:30.0Z",
+    "titleText": "Tecnología",
+    "mainText": "Tecnología. Inteligencia artificial en los videojuegos: La nueva tecnología de NVIDIA que mejora los gráficos sin sacrificar el rendimiento. Los populares videojuegos de PC recibirán nuevas mejoras visuales que prometen imágenes más nítidas y un mejor rendimiento, sin que los jugadores con tarjetas GeForce RTX necesariamente tengan que cambiar de equipo.",
+    "redirectionUrl": "https://rpp.pe/tecnologia/videojuegos/nvidia-lleva-su-nueva-tecnologia-de-ia-a-cyberpunk-2077-call-of-duty-y-gears-of-war-noticia-1703799"
+  },
+  {
+    "uid": "tecnologia-003",
+    "updateDate": "2026-08-27T04:30:30.0Z",
     "titleText": "Tecnología",
     "mainText": "Tecnología. TikTok pagará USD 400 millones por caso de privacidad de menores en EEUU. TikTok y ByteDance pagarán 400 millones de dólares para resolver una demanda en EE.UU. por violar leyes de privacidad infantil, enfrentando sanciones globales.",
     "redirectionUrl": "http://peru21.pe/tecnologia/tiktok-pagara-usd-400-millones-por-caso-de-privacidad-de-menores-en-eeuu/"
