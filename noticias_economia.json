@@ -1,30 +1,23 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-08-29T04:30:19.0Z",
+    "updateDate": "2026-08-30T04:30:20.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Ejecutivo propone elevar en 3,5% el Presupuesto Público para 2027 a S/266.506 millones. Monto asciente a S/ 266′506,316,735, con Educación como el sector con más participación en la distribución de recursos.",
-    "redirectionUrl": "https://elcomercio.pe/economia/peru/ejecutivo-propone-elevar-en-35-el-presupuesto-publico-para-2027-a-s266506-millones-noticia/"
+    "mainText": "Economía. Precio del dólar en Perú: cuál fue el tipo de cambio del sábado 29 de agosto. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, sábado 29 de agosto. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-a-cuanto-esta-el-dolar-y-tipo-de-cambio-este-sabado-29-de-agosto-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-08-29T04:30:19.0Z",
-    "titleText": "Economía",
-    "mainText": "Economía. Gobierno de Keiko Fujimori oficializa intención de reducir la planilla estatal con incentivos económicos para trabajadores que renuncien. El pedido de facultades legislativas presentado por el Ejecutivo al Congreso incluye incentivos económicos para servidores que decidan dejar el Estado. Gobierno contempla hasta 10 mil renuncias voluntarias, con compensación equivalente a una remuneración y media por cada año de servicio.",
-    "redirectionUrl": "https://rpp.pe/economia/economia/gobierno-de-keiko-fujimori-oficializa-intencion-de-reducir-la-planilla-estatal-con-incentivos-economicos-para-trabajadores-del-estado-que-renuncien-voluntariamente-noticia-1704376"
-  },
-  {
-    "uid": "economia-003",
-    "updateDate": "2026-08-29T04:30:19.0Z",
+    "updateDate": "2026-08-30T04:30:20.0Z",
     "titleText": "Economía",
     "mainText": "Economía. Ministro Juan Sheput afirma que aumento del sueldo mínimo a S/1.300 aún no tiene fecha definida. El Gobierno peruano planea aumentar la Remuneración Mínima Vital a S/1.300, discutiendo su implementación en el Consejo Nacional del Trabajo.",
     "redirectionUrl": "http://peru21.pe/economia/ministro-juan-sheput-afirma-que-aumento-del-sueldo-minimo-s1300-aun-no-tiene-fecha-definida/"
   },
   {
-    "uid": "economia-004",
-    "updateDate": "2026-08-29T04:30:19.0Z",
+    "uid": "economia-003",
+    "updateDate": "2026-08-30T04:30:20.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Gobierno de Fujimori eleva proyección de crecimiento para 2026 y 2027 pese a El Niño. En el primer trimestre del 2026, la economía se expandió 3.05%, según datos del INEI. Hacia adelante, reconoce el MEF, “el PBI mantendría un desempeño dinámico”. ¿En qué se sustenta?",
-    "redirectionUrl": "https://gestion.pe/economia/el-nino-gobierno-de-keiko-fujimori-eleva-proyeccion-de-crecimiento-para-la-economia-de-peru-para-2026-y-2027-pese-a-evento-climatico-noticia/"
+    "mainText": "Economía. TAPP e interoperabilidad: Las nuevas reglas del juego alrededor de los pagos digitales. El panorama va cambiando en el modelo de pagos digitales. La llegada de TAPP (Transferencias Automáticas de Pagos Peruanos), aplicación del Estado, marcará un antes y un después en la digitalización del sistema financiero peruano.",
+    "redirectionUrl": "https://gestion.pe/economia/mercados/tapp-e-interoperabilidad-los-servicios-y-nuevas-reglas-del-juego-alrededor-de-los-pagos-digitales-noticia/"
   }
 ]
