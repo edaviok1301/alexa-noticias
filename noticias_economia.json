@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-08-30T04:30:20.0Z",
+    "updateDate": "2026-08-31T04:30:21.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar en Perú: cuál fue el tipo de cambio del sábado 29 de agosto. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, sábado 29 de agosto. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-a-cuanto-esta-el-dolar-y-tipo-de-cambio-este-sabado-29-de-agosto-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Precio del dólar en Perú: revisa el tipo de cambio del lunes 31 de agosto. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, domingo 30 de agosto. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-a-cuanto-esta-el-tipo-de-cambio-este-lunes-31-de-agosto-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-08-30T04:30:20.0Z",
+    "updateDate": "2026-08-31T04:30:21.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Cámara de Comercio de Lima elevó a 3,2 % su proyección de crecimiento del Perú para 2026, pese al impacto de El Niño Costero. Según la Cámara de Comercio de Lima (CCL), la expansión económica estará liderada por los sectores de construcción, comercio y servicios.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/camara-de-comercio-de-lima-elevo-a-32-su-proyeccion-de-crecimiento-del-peru-para-2026-pese-al-impacto-de-el-nino-costero-noticia-1704630"
+  },
+  {
+    "uid": "economia-003",
+    "updateDate": "2026-08-31T04:30:21.0Z",
     "titleText": "Economía",
     "mainText": "Economía. Ministro Juan Sheput afirma que aumento del sueldo mínimo a S/1.300 aún no tiene fecha definida. El Gobierno peruano planea aumentar la Remuneración Mínima Vital a S/1.300, discutiendo su implementación en el Consejo Nacional del Trabajo.",
     "redirectionUrl": "http://peru21.pe/economia/ministro-juan-sheput-afirma-que-aumento-del-sueldo-minimo-s1300-aun-no-tiene-fecha-definida/"
   },
   {
-    "uid": "economia-003",
-    "updateDate": "2026-08-30T04:30:20.0Z",
+    "uid": "economia-004",
+    "updateDate": "2026-08-31T04:30:21.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. TAPP e interoperabilidad: Las nuevas reglas del juego alrededor de los pagos digitales. El panorama va cambiando en el modelo de pagos digitales. La llegada de TAPP (Transferencias Automáticas de Pagos Peruanos), aplicación del Estado, marcará un antes y un después en la digitalización del sistema financiero peruano.",
-    "redirectionUrl": "https://gestion.pe/economia/mercados/tapp-e-interoperabilidad-los-servicios-y-nuevas-reglas-del-juego-alrededor-de-los-pagos-digitales-noticia/"
+    "mainText": "Economía. Mypes buscan nuevos mercados de la mano del retail para aumentar ventas: Las estrategias. Las mypes peruanas aumentan ventas y acceso a nuevos canales al aliarse con el retail. Nueva logística, visibilidad y capacitaciones facilitan formalización y crecimiento sostenido.",
+    "redirectionUrl": "https://gestion.pe/economia/mypes-buscan-nuevos-mercados-de-la-mano-del-retail-para-aumentar-ventas-las-estrategias-noticia/"
   }
 ]
