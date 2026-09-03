@@ -1,9 +1,16 @@
 [
   {
     "uid": "gastronomia-001",
-    "updateDate": "2026-09-02T04:30:36.0Z",
+    "updateDate": "2026-09-03T04:30:38.0Z",
     "titleText": "Gastronomía",
-    "mainText": "Gastronomía. El Festival del Pan y su Postrecito se llevará a cabo del 28 al 30 de agosto en Barranco. Descubre el Festival del Pan y su Postrecito en Barranco, del 28 al 30 de agosto. Degusta panes y dulces tradicionales peruanos de 20 expositores.",
-    "redirectionUrl": "http://peru21.pe/gastronomia/el-festival-del-pan-y-su-postrecito-en-barranco/"
+    "mainText": "Gastronomía. Esta noche se entregan los Premios Somos 2026. Tras varias semanas de votación, el público eligió a sus favoritos en 37 categorías. Además, se revelarán premios especiales.",
+    "redirectionUrl": "https://elcomercio.pe/somos/gastronomia/premios-somos-2026-esta-noche-se-daran-a-conocer-a-los-ganadores-noticia/"
+  },
+  {
+    "uid": "gastronomia-002",
+    "updateDate": "2026-09-03T04:30:38.0Z",
+    "titleText": "Gastronomía",
+    "mainText": "Gastronomía. Lima, barra por barra: así es la nueva Guía de Bares de El Trinche (DESCARGA GRATIS). Lima, barra por barra: así es la nueva Guía de Bares de El Trinche",
+    "redirectionUrl": "http://peru21.pe/gastronomia/lima-barra-por-barra-asi-es-la-nueva-guia-de-bares-de-el-trinche-descarga-gratis/"
   }
 ]
