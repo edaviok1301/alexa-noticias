@@ -1,7 +1,14 @@
 [
   {
     "uid": "gastronomia-001",
-    "updateDate": "2026-09-06T04:30:38.0Z",
+    "updateDate": "2026-09-07T04:30:37.0Z",
+    "titleText": "Gastronomía",
+    "mainText": "Gastronomía. La guía completa de los Premios Somos 2026. Consulta la lista completa de ganadores de los Premios Somos 2026 y descubre cuáles son los mejores restaurantes del Perú | Dónde comer en Lima.",
+    "redirectionUrl": "https://elcomercio.pe/somos/gastronomia/premios-somos-2026-lista-de-ganadores-guia-premios-somos-gastronomia-donde-comer-peru-especdis-noticia/"
+  },
+  {
+    "uid": "gastronomia-002",
+    "updateDate": "2026-09-07T04:30:37.0Z",
     "titleText": "Gastronomía",
     "mainText": "Gastronomía. Lima, barra por barra: así es la nueva Guía de Bares de El Trinche (DESCARGA GRATIS). Lima, barra por barra: así es la nueva Guía de Bares de El Trinche",
     "redirectionUrl": "http://peru21.pe/gastronomia/lima-barra-por-barra-asi-es-la-nueva-guia-de-bares-de-el-trinche-descarga-gratis/"
