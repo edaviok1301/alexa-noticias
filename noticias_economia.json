@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-09-07T04:30:21.0Z",
+    "updateDate": "2026-09-08T04:30:18.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar en Perú: cuál fue el tipo de cambio del domingo 6 de setiembre. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, domingo 6 de setiembre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-cual-es-el-tipo-de-cambio-del-domingo-6-de-septiembre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Dólar cierra con leve caída a S/3,36 en un día marcado por una menor liquidez en el mercado. El dólar en Perú cerró la sesión en S/3,3600, por debajo de los S/3,3640 de la jornada previa, en línea con el retroceso de 0.23% del índice global del dólar (DXY)",
+    "redirectionUrl": "https://elcomercio.pe/economia/dolar-cierra-con-leve-caida-a-s336-en-un-dia-marcado-por-una-menor-liquidez-en-el-mercado-ultimas-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-09-07T04:30:21.0Z",
+    "updateDate": "2026-09-08T04:30:18.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Nuevo presidente de Sedapal: Fernando Laca estará a cargo de reestructurar la empresa de agua de Lima. El Ejecutivo busca cambiar la gestión de Sedapal para mejorar la eficiencia y la calidad del servicio de agua potable y saneamiento en Lima y Callao.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/nuevo-presidente-de-sedapal-fernando-laca-estara-a-cargo-de-reestructurar-la-empresa-de-agua-de-lima-noticia-1706147"
+  },
+  {
+    "uid": "economia-003",
+    "updateDate": "2026-09-08T04:30:18.0Z",
     "titleText": "Economía",
     "mainText": "Economía. ¿Por qué los bonos de economías desarrolladas pierden valor?. La venta masiva de bonos en economías desarrolladas eleva su rentabilidad, impulsada por cambios en las preferencias de inversión hacia la inteligencia artificial.",
     "redirectionUrl": "http://peru21.pe/economia/por-que-los-bonos-de-economias-desarrolladas-pierden-valor/"
   },
   {
-    "uid": "economia-003",
-    "updateDate": "2026-09-07T04:30:21.0Z",
+    "uid": "economia-004",
+    "updateDate": "2026-09-08T04:30:18.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Gobierno aprueba nuevo modelo de convenio para gestión de infraestructura pesquera artesanal. La medida regirá a nivel nacional y establece nuevas reglas para convenios, adendas y administración en la infraestructura pesquera artesanal.",
-    "redirectionUrl": "https://gestion.pe/economia/gobierno-aprueba-nuevo-modelo-de-convenio-para-la-gestion-de-infraestructura-pesquera-artesanal-noticia/"
+    "mainText": "Economía. Gobierno destina S/ 25.5 millones para trabajos en puntos críticos ante fenómeno El Niño. El Gobierno autorizó una transferencia de S/ 25,5 millones al Ministerio de Vivienda, Construcción y Saneamiento (MVCS) para ejecutar 55 intervenciones de limpieza y descolmatación en cauces de ríos y quebradas considerados críticos.",
+    "redirectionUrl": "https://gestion.pe/economia/gobierno-de-keiko-fujimori-destina-s-255-millones-para-trabajos-en-puntos-criticos-ante-fenomeno-el-nino-noticia/"
   }
 ]
