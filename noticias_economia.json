@@ -1,30 +1,23 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-09-12T04:30:19.0Z",
+    "updateDate": "2026-09-14T04:30:18.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Wall Street cierra en verde tras moderarse el petróleo, pero anota pérdida semanal. Wall Street cerró este viernes en verde tras bajar ligeramente el precio del petróleo, pero anotó pérdidas acumuladas entre preocupaciones por la persistente inflación en Estados Unidos y el aumento de las expectativas de una subida de los tipos de interés.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/wall-street-cierra-en-verde-tras-moderarse-el-petroleo-pero-anota-perdida-semanal-l-mercados-l-wall-street-l-ultimas-noticia/"
+    "mainText": "Economía. Precio del dólar y el tipo de cambio de hoy, lunes 14 de setiembre de 2026. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 14 de setiembre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-peru-2026-a-cuanto-esta-el-tipo-de-cambio-este-lunes-14-de-setiembre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-09-12T04:30:19.0Z",
-    "titleText": "Economía",
-    "mainText": "Economía. Keiko Fujimori pidió a Marco Rubio, secretario de Estado de EEUU, reevaluar los aranceles a Perú: \"dijo que no era de su competencia\". La presidenta señaló que en su próximo viaje a Estados Unidos para la Asamblea de las Naciones Unidas, junto al ministro de Comercio Exterior y Turismo Rogers Valencia, establecerá una mesa de trabajo para abordar el incremento arancelario que aplicó Trump a las exportaciones peruanas.",
-    "redirectionUrl": "https://rpp.pe/economia/economia/keiko-fujimori-solicito-a-marco-rubio-reevaluar-aranceles-a-peru-que-le-respondio-noticia-1706907"
-  },
-  {
-    "uid": "economia-003",
-    "updateDate": "2026-09-12T04:30:19.0Z",
+    "updateDate": "2026-09-14T04:30:18.0Z",
     "titleText": "Economía",
     "mainText": "Economía. Cuba sobre los topes a las tasas: “La supuesta ley antiusura es ‘prousura’”. El ministro de Economía advierte que los topes a tasas de interés excluyen a mypes del sistema financiero, exponiéndolas a créditos informales.",
     "redirectionUrl": "http://peru21.pe/economia/cuba-la-supuesta-ley-antiusura-es-prousura/"
   },
   {
-    "uid": "economia-004",
-    "updateDate": "2026-09-12T04:30:19.0Z",
+    "uid": "economia-003",
+    "updateDate": "2026-09-14T04:30:18.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Minera Poderosa en Pataz: de 120 a 1,940 toneladas diarias y un modelo que reparte las obras. Poderosa llegó a un Pataz sin carretera ni electricidad y empezó en 1982 procesando 120 toneladas de mineral al día. Hoy trata 1,940 y comparte con el municipio y la población la decisión sobre las obras del distrito.",
-    "redirectionUrl": "https://gestion.pe/economia/empresas/poderosa-la-infraestructura-que-tuvo-que-construir-para-operar-en-pataz-noticia/"
+    "mainText": "Economía. Más allá de la prueba PISA: casi 336,000 jóvenes en Perú no estudian, ¿qué riesgos hay?. Data a este segundo trimestre presentó que casi el 15% de este grupo poblacional no está estudiando. Estos se dividen entre quienes únicamente laboran y quienes no estudian ni trabajan (Ninis). Los detalles aquí.",
+    "redirectionUrl": "https://gestion.pe/economia/mas-alla-del-pisa-336000-jovenes-entre-14-y-17-anos-en-peru-no-estudian-que-riesgos-hay-noticia/"
   }
 ]
