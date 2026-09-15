@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-09-14T04:30:18.0Z",
+    "updateDate": "2026-09-15T04:30:17.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar y el tipo de cambio de hoy, lunes 14 de setiembre de 2026. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 14 de setiembre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-peru-2026-a-cuanto-esta-el-tipo-de-cambio-este-lunes-14-de-setiembre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Precio del dólar en Perú: consulta la cotización en compra y venta del martes 15 de setiembre de 2026. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, martes 15 de setiembre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-a-cuanto-esta-el-tipo-de-cambio-este-martes-15-de-setiembre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-09-14T04:30:18.0Z",
+    "updateDate": "2026-09-15T04:30:17.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Elmer Cuba anuncia que esta semana se aprobará subsidio de hasta S/100 mensual a mototaxistas de la selva para comprar gasolina. El ministro de Economía señaló que el apoyo será focalizado y temporal. Los mototaxistas podrían recibir alrededor de S/2 por galón para comprar gasolina regular.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/mef-elmer-cuba-anuncia-subsidio-a-mototaxistas-de-la-selva-para-pago-de-combustibles-sera-de-100-soles-mensuales-noticia-1707390"
+  },
+  {
+    "uid": "economia-003",
+    "updateDate": "2026-09-15T04:30:17.0Z",
     "titleText": "Economía",
     "mainText": "Economía. Cuba sobre los topes a las tasas: “La supuesta ley antiusura es ‘prousura’”. El ministro de Economía advierte que los topes a tasas de interés excluyen a mypes del sistema financiero, exponiéndolas a créditos informales.",
     "redirectionUrl": "http://peru21.pe/economia/cuba-la-supuesta-ley-antiusura-es-prousura/"
   },
   {
-    "uid": "economia-003",
-    "updateDate": "2026-09-14T04:30:18.0Z",
+    "uid": "economia-004",
+    "updateDate": "2026-09-15T04:30:17.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Más allá de la prueba PISA: casi 336,000 jóvenes en Perú no estudian, ¿qué riesgos hay?. Data a este segundo trimestre presentó que casi el 15% de este grupo poblacional no está estudiando. Estos se dividen entre quienes únicamente laboran y quienes no estudian ni trabajan (Ninis). Los detalles aquí.",
-    "redirectionUrl": "https://gestion.pe/economia/mas-alla-del-pisa-336000-jovenes-entre-14-y-17-anos-en-peru-no-estudian-que-riesgos-hay-noticia/"
+    "mainText": "Economía. Litio en Puno: Falchani eleva su inversión a US$ 834 millones y ya tiene fecha de arranque. Macusani Yellowcake elevó a US$ 834 millones la inversión de la primera etapa de Falchani, su proyecto de litio en Puno, y proyecta arrancar la construcción en el segundo semestre del 2028.",
+    "redirectionUrl": "https://gestion.pe/economia/empresas/macusani-yellowcake-rehace-numeros-de-falchani-y-apunta-a-desarrollar-su-mina-de-litio-en-el-2028-noticia/"
   }
 ]
