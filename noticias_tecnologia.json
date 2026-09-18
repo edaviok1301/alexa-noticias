@@ -1,14 +1,21 @@
 [
   {
     "uid": "tecnologia-001",
-    "updateDate": "2026-09-17T04:30:22.0Z",
+    "updateDate": "2026-09-18T04:30:21.0Z",
     "titleText": "Tecnología",
-    "mainText": "Tecnología. ¿Qué está pasando con la inteligencia artificial? De la “conspiración enfermiza” de Trump al riesgo para la humanidad que advierte la ONU. ¿La IA nos puede matar a todos? Analistas señalan que hoy “el riesgo es más bien indirecto” y que la preocupación debería estar en “algo real, algo tangible”, como el mal resultado de la prueba PISA. Además, observan con “cierto escepticismo” que se pueda desacelerar la IA, como proponen algunas grandes empresas tecnológicas",
-    "redirectionUrl": "https://elcomercio.pe/mundo/actualidad/que-esta-pasando-con-la-inteligencia-artificial-de-la-conspiracion-enfermiza-de-trump-al-riesgo-para-la-humanidad-que-advierte-la-onu-noticia/"
+    "mainText": "Tecnología. Si la IA resuelve por sí sola problemas complejos, ¿para qué servirán los matemáticos?. “Una crisis existencial”. Así se define lo que se vive en disciplinas como las matemáticas, luego que un modelo de OpenAI resolviera una ecuación de 1845. Sin embargo, “no se aprecia un salto de creatividad”, afirman",
+    "redirectionUrl": "https://elcomercio.pe/tecnologia/inteligencia-artificial/si-la-ia-resuelve-por-si-sola-problemas-complejos-para-que-serviran-los-matematicos-ciencias-openai-elon-musk-noticia/"
   },
   {
     "uid": "tecnologia-002",
-    "updateDate": "2026-09-17T04:30:22.0Z",
+    "updateDate": "2026-09-18T04:30:21.0Z",
+    "titleText": "Tecnología",
+    "mainText": "Tecnología. La carrera por una IA más poderosa abre una nueva preocupación: cómo mantenerla bajo control. OpenAI, Anthropic y otros actores de la industria han comenzado a advertir sobre riesgos que van desde ciberataques y uso malicioso hasta comportamientos que sus propios desarrolladores no habían previsto. En las últimas semanas se acumularon incidentes, renuncias y llamados a reducir el ritmo de desarrollo. ¿Qué está cambiando realmente en la inteligencia artificial y cuánto de las advertencias m",
+    "redirectionUrl": "https://rpp.pe/tecnologia/mas-tecnologia/inteligencia-artificial-por-que-openai-y-anthropic-advierten-sobre-perder-el-control-de-la-ia-noticia-1708095"
+  },
+  {
+    "uid": "tecnologia-003",
+    "updateDate": "2026-09-18T04:30:21.0Z",
     "titleText": "Tecnología",
     "mainText": "Tecnología. Facebook e Instagram permitirán que usuarios añadan contexto a publicaciones engañosas. Facebook e Instagram permitirán que usuarios añadan contexto a publicaciones engañosas",
     "redirectionUrl": "http://peru21.pe/tecnologia/facebook-e-instagram-permitiran-que-usuarios-anadan-contexto-publicaciones-enganosas/"
