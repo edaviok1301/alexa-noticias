@@ -1,23 +1,16 @@
 [
   {
     "uid": "tecnologia-001",
-    "updateDate": "2026-09-18T04:30:21.0Z",
+    "updateDate": "2026-09-19T04:30:23.0Z",
     "titleText": "Tecnología",
-    "mainText": "Tecnología. Si la IA resuelve por sí sola problemas complejos, ¿para qué servirán los matemáticos?. “Una crisis existencial”. Así se define lo que se vive en disciplinas como las matemáticas, luego que un modelo de OpenAI resolviera una ecuación de 1845. Sin embargo, “no se aprecia un salto de creatividad”, afirman",
-    "redirectionUrl": "https://elcomercio.pe/tecnologia/inteligencia-artificial/si-la-ia-resuelve-por-si-sola-problemas-complejos-para-que-serviran-los-matematicos-ciencias-openai-elon-musk-noticia/"
+    "mainText": "Tecnología. ¿Qué es el RSI? La técnica que podría provocar que la IA se salga de control. Conocida también como automejora recursiva. La alerta ya está activada y organismos internacionales piden tomar medidas sobre la inteligencia artificial",
+    "redirectionUrl": "https://elcomercio.pe/tecnologia/inteligencia-artificial/que-es-el-rsi-la-tecnica-que-podria-provocar-que-la-ia-se-salga-de-control-estados-unidos-china-anthropic-openai-noticia/"
   },
   {
     "uid": "tecnologia-002",
-    "updateDate": "2026-09-18T04:30:21.0Z",
+    "updateDate": "2026-09-19T04:30:23.0Z",
     "titleText": "Tecnología",
-    "mainText": "Tecnología. La carrera por una IA más poderosa abre una nueva preocupación: cómo mantenerla bajo control. OpenAI, Anthropic y otros actores de la industria han comenzado a advertir sobre riesgos que van desde ciberataques y uso malicioso hasta comportamientos que sus propios desarrolladores no habían previsto. En las últimas semanas se acumularon incidentes, renuncias y llamados a reducir el ritmo de desarrollo. ¿Qué está cambiando realmente en la inteligencia artificial y cuánto de las advertencias m",
-    "redirectionUrl": "https://rpp.pe/tecnologia/mas-tecnologia/inteligencia-artificial-por-que-openai-y-anthropic-advierten-sobre-perder-el-control-de-la-ia-noticia-1708095"
-  },
-  {
-    "uid": "tecnologia-003",
-    "updateDate": "2026-09-18T04:30:21.0Z",
-    "titleText": "Tecnología",
-    "mainText": "Tecnología. Facebook e Instagram permitirán que usuarios añadan contexto a publicaciones engañosas. Facebook e Instagram permitirán que usuarios añadan contexto a publicaciones engañosas",
-    "redirectionUrl": "http://peru21.pe/tecnologia/facebook-e-instagram-permitiran-que-usuarios-anadan-contexto-publicaciones-enganosas/"
+    "mainText": "Tecnología. BTS en Perú: estudiante de la UNI crea simulador 3D del estadio San Marcos para ayudar al ARMY. Descubre el simulador 3D del estadio San Marcos creado por un estudiante peruano para que los fans de BTS visualicen su experiencia en los conciertos en Lima.",
+    "redirectionUrl": "http://peru21.pe/tecnologia/bts-en-peru-estudiante-de-la-uni-crea-simulador-3d-del-estadio-san-marcos-para-ayudar-al-army/"
   }
 ]
