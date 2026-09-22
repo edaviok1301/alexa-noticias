@@ -1,14 +1,21 @@
 [
   {
     "uid": "tecnologia-001",
-    "updateDate": "2026-09-21T04:30:23.0Z",
+    "updateDate": "2026-09-22T04:30:24.0Z",
     "titleText": "Tecnología",
-    "mainText": "Tecnología. El primer servicio de robotaxis de Japón llegará a Tokio en 2027 de la mano de Waymo. El anuncio, que no especifica una fecha de inicio, llega después de numerosas pruebas en siete distritos de la capital japonesa desde 2025",
-    "redirectionUrl": "https://elcomercio.pe/tecnologia/actualidad/el-primer-servicio-de-robotaxis-de-japon-llegara-a-tokio-en-2027-de-la-mano-de-waymo-noticia/"
+    "mainText": "Tecnología. El ambicioso proyecto de Harvard y científicos peruanos que quiere convertir el cañón del Colca en un gigante observatorio natural. En el valle del Colca se instalará un observatorio natural para detectar estas misteriosas partículas elementales que pueden darnos información del universo lejano y del propio ‘big bang’.",
+    "redirectionUrl": "https://elcomercio.pe/eldominical/ciencia/proyecto-tambo-el-ambicioso-plan-para-cazar-neutrinos-en-el-canon-del-colca-arequipa-noticia/"
   },
   {
     "uid": "tecnologia-002",
-    "updateDate": "2026-09-21T04:30:23.0Z",
+    "updateDate": "2026-09-22T04:30:24.0Z",
+    "titleText": "Tecnología",
+    "mainText": "Tecnología. Más allá de las pantallas: los 'supercerebros' que necesitará la Inteligencia Artificial para funcionar sin pausas. Los sistemas de inteligencia artificial están evolucionando hacia agentes capaces de planificar procesos, consultar información, utilizar herramientas y ejecutar código. AMD busca adaptar sus nuevos procesadores EPYC 9006 a esta nueva generación de cargas de trabajo en los centros de datos.",
+    "redirectionUrl": "https://rpp.pe/tecnologia/mas-tecnologia/amd-epyc-los-nuevos-procesadores-disenados-para-el-futuro-de-la-inteligencia-artificial-noticia-1708645"
+  },
+  {
+    "uid": "tecnologia-003",
+    "updateDate": "2026-09-22T04:30:24.0Z",
     "titleText": "Tecnología",
     "mainText": "Tecnología. BTS en Perú: estudiante de la UNI crea simulador 3D del estadio San Marcos para ayudar al ARMY. Descubre el simulador 3D del estadio San Marcos creado por un estudiante peruano para que los fans de BTS visualicen su experiencia en los conciertos en Lima.",
     "redirectionUrl": "http://peru21.pe/tecnologia/bts-en-peru-estudiante-de-la-uni-crea-simulador-3d-del-estadio-san-marcos-para-ayudar-al-army/"
