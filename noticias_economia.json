@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-09-21T04:30:19.0Z",
+    "updateDate": "2026-09-22T04:30:19.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar en Perú: consulta la cotización en compra y venta del lunes 21 de setiembre. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 21 de setiembre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-2026-a-cuanto-esta-el-dolar-este-lunes-21-de-setiembre-tipo-de-cambio-segun-el-bcrp-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. La gastronomía peruana ya mueve más de US$3.300 millones localmente: el reto de convertir ese boom en una industria global. El sector de alimentos y bebidas vinculado al turismo representa el 23,7% del valor agregado turístico y genera unos 535.000 empleos. Con más de 2.700 restaurantes peruanos en el exterior, la siguiente apuesta es exportar marcas, franquicias y conceptos gastronómicos.",
+    "redirectionUrl": "https://elcomercio.pe/economia/dia-1/la-gastronomia-peruana-ya-conquisto-al-mundo-y-mueve-mas-de-us3300-millones-localmente-el-reto-de-convertir-ese-boom-en-una-industria-global-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-09-21T04:30:19.0Z",
+    "updateDate": "2026-09-22T04:30:19.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Venta de flores amarillas se disparan en hasta 2000% el 21 de setiembre, ¿cuáles son las favoritas?. Cada 21 de setiembre que se ha vuelto una tendencia regalar flores amarillas. A nivel nacional hay más de 6.700 productores floricultores, principalmente de Áncash, Junín, Cajamarca, Huánuco y Lima Provincias.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/flores-amarillas-ventas-se-disparan-hoy-21-de-septiembre-hasta-2000-por-ciento-cuales-son-las-favoritas-noticia-1708662"
+  },
+  {
+    "uid": "economia-003",
+    "updateDate": "2026-09-22T04:30:19.0Z",
     "titleText": "Economía",
     "mainText": "Economía. Mypes piden que se eliminen topes a tasas porque afectan acceso al crédito. Aseguran que muchos negocios tienen problemas para acceder a préstamos formales por esa medida | Tope a las tasa | Tope a tasas de interés | Economía | Mypes",
     "redirectionUrl": "http://peru21.pe/economia/mypes-piden-que-se-elimine-el-tope-las-tasas-de-interes/"
   },
   {
-    "uid": "economia-003",
-    "updateDate": "2026-09-21T04:30:19.0Z",
+    "uid": "economia-004",
+    "updateDate": "2026-09-22T04:30:19.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. ¿Cuánto puede costar y comprometer el delito de un trabajador a una empresa?. La inseguridad en nuestro país escala a diario. Los casos de robos y asaltos continúan generando preocupación entre la población. Estos hechos no solo ocurren en espacios públicos, sino que también se empiezan a registrar al interior de establecimientos, donde los usuarios esperan contar con condiciones de seguridad.",
-    "redirectionUrl": "https://gestion.pe/economia/empresas/cuanto-puede-costar-y-comprometer-el-delito-de-un-trabajador-a-un-empresa-noticia/"
+    "mainText": "Economía. ¿Cambios en el transporte?: esto proponen en el debate los candidatos a Lima Metropolitana. Debate municipal de Lima Metropolitana EN VIVO: todo sobre la primera jornada organizada por el JNE. 13 candidatos expondrán a la ciudadanía sus planes de gobierno.",
+    "redirectionUrl": "https://gestion.pe/peru/debate-municipal-de-lima-metropolitana-jne-transporte-para-lima-que-proponen-los-candidatos-noticia/"
   }
 ]
