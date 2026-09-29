@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-09-28T04:30:19.0Z",
+    "updateDate": "2026-09-29T04:30:47.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar en Perú: consulta la cotización en compra y venta del lunes 28 de setiembre. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 28 de setiembre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-2026-a-cuanto-esta-el-dolar-este-lunes-28-de-septiembre-a-cuanto-tipo-de-cambio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Wall Street cierra en rojo una sesión marcada por una nueva subida de los bonos. Wall Street cerró este lunes en rojo y el Dow Jones de Industriales, su principal indicador, bajó 0,67%, en una jornada marcada por una nueva subida del rendimiento de los bonos del Tesoro debido a la incertidumbre en Oriente Medio y las presiones inflacionarias.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/wall-street-cierra-en-rojo-una-sesion-marcada-por-una-nueva-subida-de-los-bonos-l-mercados-l-wall-street-l-ultimas-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-09-28T04:30:19.0Z",
+    "updateDate": "2026-09-29T04:30:47.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Sueldo mínimo sube S/ 100: economistas debaten entre posible pérdida de empleos o la reposición por el costo de vida. Mientras que David Tuesta consideró que la medida del Ejecutivo refleja cómo las autoridades han cedido ante un \"círculo vicioso estructural del populismo en el Perú\", Jorge González Izquierdo dijo que el aumento del salario mínimo representa una reposición del valor absorbido por el costo de vida.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/sueldo-minimo-incremento-economistas-david-tuesta-y-jorge-gonzalez-izquierdo-analizaron-el-reciente-aumento-de-la-remuneracion-minima-vital-noticia-1709819"
+  },
+  {
+    "uid": "economia-003",
+    "updateDate": "2026-09-29T04:30:47.0Z",
     "titleText": "Economía",
     "mainText": "Economía. Progreso social en Perú apenas avanzó 0.2 puntos. El Índice de Progreso Social Regional 2026 de Perú muestra un avance mínimo en bienestar social, destacando brechas en servicios básicos y oportunidades.",
     "redirectionUrl": "http://peru21.pe/economia/progreso-social-en-peru-apenas-avanzo-02-puntos/"
   },
   {
-    "uid": "economia-003",
-    "updateDate": "2026-09-28T04:30:19.0Z",
+    "uid": "economia-004",
+    "updateDate": "2026-09-29T04:30:47.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. SBS declara intervención de cooperativa, ¿de cuál se trata?. Mediante la Resolución SBS Nº 02356-2026, la Superintendencia de Banca, Seguros y AFP declaró el sometimiento a régimen de intervención de la Cooperativa de Ahorro y Crédito Financoop Ltda., debido a que incurrió en la causal de pérdida total del capital social y de la reserva cooperativa, luego de registrar un patrimonio contable negativo de S/ 1.96 millones al 31 de marzo del 2026.",
-    "redirectionUrl": "https://gestion.pe/economia/empresas/sbs-declara-intervencion-de-cooperativa-de-cual-se-trata-noticia/"
+    "mainText": "Economía. Pichincha lanza su banco digital Pibank: ¿cómo funcionará?. La entidad comunicó a la Superintendencia del Mercado de Valores (SMV) que el lanzamiento de Pibank constituye un hecho de importancia y forma parte de su estrategia de crecimiento.",
+    "redirectionUrl": "https://gestion.pe/economia/empresas/pichincha-lanza-su-banco-digital-pibank-como-funcionara-noticia/"
   }
 ]
