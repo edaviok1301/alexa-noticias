@@ -1,14 +1,21 @@
 [
   {
     "uid": "tecnologia-001",
-    "updateDate": "2026-09-28T04:30:25.0Z",
+    "updateDate": "2026-09-29T04:30:52.0Z",
     "titleText": "Tecnología",
-    "mainText": "Tecnología. ¿Conviene apagar el router del Wi-Fi todas las noches?. Desconectar el equipo cuando nadie necesita Internet puede reducir su consumo eléctrico y cortar temporalmente el acceso a la red doméstica",
-    "redirectionUrl": "https://elcomercio.pe/tecnologia/actualidad/conviene-apagar-el-router-del-wi-fi-todas-las-noches-noticia/"
+    "mainText": "Tecnología. El papa advierte contra la llegada de un “paraíso de máquinas”. León XIV llamó a “formar las mentes en un discernimiento ético capaz de distinguir lo que es moralmente bueno”. También habló sobre las manipulaciones genéticas, la gestación subrogada y la compra de órganos",
+    "redirectionUrl": "https://elcomercio.pe/tecnologia/actualidad/el-papa-leon-xiv-advierte-contra-la-llegada-de-un-paraiso-de-maquinas-inteligencia-artificial-robotica-noticia/"
   },
   {
     "uid": "tecnologia-002",
-    "updateDate": "2026-09-28T04:30:25.0Z",
+    "updateDate": "2026-09-29T04:30:52.0Z",
+    "titleText": "Tecnología",
+    "mainText": "Tecnología. ¿Te hackearon el WhatsApp? Esto es todo lo que debes hacer para recuperarlo. Si crees que tu cuenta de WhatsApp fue vulnerada por ciberdelincuentes, ten en cuenta estas recomendaciones y advertencias.",
+    "redirectionUrl": "https://rpp.pe/tecnologia/whatsapp/whatsapp-hackeado-esto-debes-hacer-para-recuperar-tu-cuenta-noticia-1709798"
+  },
+  {
+    "uid": "tecnologia-003",
+    "updateDate": "2026-09-29T04:30:52.0Z",
     "titleText": "Tecnología",
     "mainText": "Tecnología. Paola Wong: \"En un futuro cercano podrá darse un viaje intercontinental en menos de una hora\". Descubre la inspiradora historia de Paola Wong, pionera peruana en ciencia espacial, y su papel en TEDxBarriosAltosED sobre educación innovadora.",
     "redirectionUrl": "http://peru21.pe/ciencia/entrevista-la-mayor-fap-paola-wong-sobre-ciencia-espacial/"
