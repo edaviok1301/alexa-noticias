@@ -1,30 +1,23 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-10-03T04:30:17.0Z",
+    "updateDate": "2026-10-05T04:30:18.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Anden presenta Máximo, marca con la que apunta a S/250 millones en ventas, ¿qué otros planes tiene la inmobiliaria?. La nueva firma proyecta facturar S/50 millones este año y crecer 20% anual. Su primer proyecto, de 100 viviendas, estará en Pueblo Libre. En paralelo, M² Partners busca sumar inversionistas y propietarios de terrenos.",
-    "redirectionUrl": "https://elcomercio.pe/economia/dia-1/anden-presenta-maximo-marca-con-la-que-apunta-a-s250-millones-en-ventas-que-otros-planes-tiene-la-inmobiliaria-noticia/"
+    "mainText": "Economía. Precio del dólar del lunes 5 de octubre: cuál es el tipo de cambio. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 5 de octubre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-a-cuanto-esta-el-tipo-de-cambio-este-lunes-5-de-octubre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-10-03T04:30:17.0Z",
-    "titleText": "Economía",
-    "mainText": "Economía. La informalidad laboral roza el 90% en cuatro regiones del Perú: ¿Qué les toca hacer a los próximos gobernadores? [INFORME]. La informalidad laboral supera el 86% en cuatro regiones del país, mientras que en el agro y otras actividades tradicionales persisten bajos niveles de productividad y rentabilidad. ¿Qué pueden hacer los próximos gobiernos regionales para cambiar esta realidad y generar más empleo formal?",
-    "redirectionUrl": "https://rpp.pe/economia/economia/la-informalidad-laboral-roza-el-90-en-cuatro-regiones-del-peru-que-les-toca-hacer-a-los-proximos-gobernadores-noticia-1710487"
-  },
-  {
-    "uid": "economia-003",
-    "updateDate": "2026-10-03T04:30:17.0Z",
+    "updateDate": "2026-10-05T04:30:18.0Z",
     "titleText": "Economía",
     "mainText": "Economía. Unos 21 millones de peruanos carecen de agua gestionada de manera segura. El 61.5% de los peruanos carece de acceso seguro a agua potable. ExpoAgua 2026 busca soluciones sostenibles para cerrar esta brecha crítica.",
     "redirectionUrl": "http://peru21.pe/economia/unos-21-millones-de-peruanos-carecen-de-agua-gestionada-de-manera-segura/"
   },
   {
-    "uid": "economia-004",
-    "updateDate": "2026-10-03T04:30:17.0Z",
+    "uid": "economia-003",
+    "updateDate": "2026-10-05T04:30:18.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. EsSalud gasta más en personal que en medicinas e inversión: ¿cómo distribuye su presupuesto?. EsSalud destina 57% de su presupuesto al personal, mientras medicamentos, insumos y dispositivos reciben menos del 16%. Zulema Tomás detalló las cifras.",
-    "redirectionUrl": "https://gestion.pe/economia/essalud-57-del-presupuesto-se-destina-a-personal-noticia/"
+    "mainText": "Economía. Independencia: precio de terrenos llega a US$ 2,000 por m², ¿qué explica este incremento?. Los cambios de zonificación de I2 a Comercio Metropolitano y luego a ZDMA han ampliado los usos permitidos en una zona estratégica de Lima Norte. Binswanger reporta que el precio promedio del suelo pasó de US$1,100 por m² en 2019 a US$1,400 en 2026, mientras los valores máximos llegan a US$2,000.",
+    "redirectionUrl": "https://gestion.pe/economia/empresas/suelo-en-independencia-supera-los-us1400-por-m-y-apunta-a-nuevos-desarrollos-noticia/"
   }
 ]
