@@ -1,9 +1,16 @@
 [
   {
     "uid": "gastronomia-001",
-    "updateDate": "2026-10-03T04:30:32.0Z",
+    "updateDate": "2026-10-05T04:30:35.0Z",
     "titleText": "Gastronomía",
-    "mainText": "Gastronomía. Paula Gutiérrez, la cocinera de raíces peruanas que conquistó España y tomó el relevo de su padre. Paula Gutiérrez, Mejor Cocinera del Año 2026 en España, fusiona la cocina peruana y española en Tayta, un restaurante familiar con estrella Michelin.",
-    "redirectionUrl": "http://peru21.pe/gastronomia/paula-gutierrez-la-cocinera-de-raices-peruanas-que-conquisto-espana-y-tomo-el-relevo-de-su-padre/"
+    "mainText": "Gastronomía. Las esquinas del movimiento: el auge y caída de las pulperías, las verdaderas antecesoras de las bodegas limeñas. Las esquinas del movimiento: el auge y caída de las pulperías, las verdaderas antecesoras de las bodegas limeñas",
+    "redirectionUrl": "https://elcomercio.pe/eldominical/articulos-historicos/el-auge-y-caida-de-las-pulperias-las-verdaderas-antecesoras-de-las-bodegas-limenas-noticia/"
+  },
+  {
+    "uid": "gastronomia-002",
+    "updateDate": "2026-10-05T04:30:35.0Z",
+    "titleText": "Gastronomía",
+    "mainText": "Gastronomía. Premios SUMMUM 2026: Punto Café se consagra como la mejor cafetería de especialidad del Perú (VIDEO). Premios SUMMUM 2026: Punto Café se consagra como la mejor cafetería de especialidad del Perú",
+    "redirectionUrl": "http://peru21.pe/gastronomia/premios-summum-2026-punto-cafe-se-consagra-como-la-mejor-cafeteria-de-especialidad-del-peru/"
   }
 ]
