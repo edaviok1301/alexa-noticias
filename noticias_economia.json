@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-10-05T04:30:18.0Z",
+    "updateDate": "2026-10-06T04:30:17.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar del lunes 5 de octubre: cuál es el tipo de cambio. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 5 de octubre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-a-cuanto-esta-el-tipo-de-cambio-este-lunes-5-de-octubre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Fenómeno El Niño: Presupuesto para prevención y respuesta ante desastres caería en 8,2% en el 2027. Los fondos previstos para la prevención, la preparación y la respuesta ante los efectos del fenómeno El Niño y otros eventos naturales durante el próximo año concentrarán más recursos en el gobierno central; pero al mismo tiempo no alcanzarían el monto aprobado a inicios del 2026.",
+    "redirectionUrl": "https://elcomercio.pe/ecdata/como-se-distribuira-la-inversion-del-estado-para-enfrentar-desastres-durante-en-el-2027-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-10-05T04:30:18.0Z",
+    "updateDate": "2026-10-06T04:30:17.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Elecciones 2026: van a segunda vuelta cinco de las seis regiones que recibirán el mayor canon minero de la historia, ¿cuáles son?. Este año, las transferencias mineras alcanzaron un récord histórico de más de S/13.000 millones. En cinco de las regiones con mayores recursos aún no definen a su próximo gobernador, quien tendrá a su cargo la administración de estos ingresos que seguirían elevados en un escenario de alta demanda y precios favorables de los metales.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/segunda-vuelta-regional-2026-en-cinco-de-seis-regiones-que-recibiran-mayor-canon-minero-de-historia-cuales-son-noticia-1710959"
+  },
+  {
+    "uid": "economia-003",
+    "updateDate": "2026-10-06T04:30:17.0Z",
     "titleText": "Economía",
     "mainText": "Economía. Unos 21 millones de peruanos carecen de agua gestionada de manera segura. El 61.5% de los peruanos carece de acceso seguro a agua potable. ExpoAgua 2026 busca soluciones sostenibles para cerrar esta brecha crítica.",
     "redirectionUrl": "http://peru21.pe/economia/unos-21-millones-de-peruanos-carecen-de-agua-gestionada-de-manera-segura/"
   },
   {
-    "uid": "economia-003",
-    "updateDate": "2026-10-05T04:30:18.0Z",
+    "uid": "economia-004",
+    "updateDate": "2026-10-06T04:30:17.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Independencia: precio de terrenos llega a US$ 2,000 por m², ¿qué explica este incremento?. Los cambios de zonificación de I2 a Comercio Metropolitano y luego a ZDMA han ampliado los usos permitidos en una zona estratégica de Lima Norte. Binswanger reporta que el precio promedio del suelo pasó de US$1,100 por m² en 2019 a US$1,400 en 2026, mientras los valores máximos llegan a US$2,000.",
-    "redirectionUrl": "https://gestion.pe/economia/empresas/suelo-en-independencia-supera-los-us1400-por-m-y-apunta-a-nuevos-desarrollos-noticia/"
+    "mainText": "Economía. Estadounidense Vertiv pone la mira en Perú: la oportunidad para centros de datos que abre la IA. La empresa estadounidense Vertiv, con más de 25 años de presencia en Perú, se dedica a la infraestructura para centros de datos, con soluciones de energía, refrigeración y continuidad de las operaciones. Ahora, la acelerada expansión de la inteligencia artificial está abriendo una nueva etapa para este negocio y, con ella, una oportunidad que la compañía ya observa en el mercado peruano. ¿De qué s",
+    "redirectionUrl": "https://gestion.pe/economia/empresas/estadounidense-vertiv-dedicada-a-la-infraestructura-de-centro-de-datos-pone-la-mira-en-peru-la-oportunidad-que-abre-la-expansion-de-la-ia-noticia/"
   }
 ]
