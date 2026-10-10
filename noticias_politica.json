@@ -1,16 +1,23 @@
 [
   {
     "uid": "politica-001",
-    "updateDate": "2026-10-09T04:30:14.0Z",
+    "updateDate": "2026-10-10T04:30:15.0Z",
     "titleText": "Política",
-    "mainText": "Política. Resultados ONPE al 92.805% de las Elecciones Regionales y Municipales 2026: aquí el conteo oficial. Resultados ONPE al 92.805% de las Elecciones Regionales y Municipales 2026: aquí el conteo oficial",
+    "mainText": "Política. ONPE resultados al 92.862% de las Elecciones Regionales y Municipales 2026: revisa aquí el conteo oficial. ONPE resultados al 92.862% de las Elecciones Regionales y Municipales 2026: revisa aquí el conteo oficial",
     "redirectionUrl": "https://elcomercio.pe/elecciones/resultados-onpe-en-vivo-sigue-el-conteo-oficial-de-las-elecciones-regionales-y-municipales-2026-lbposting-noticia/"
   },
   {
     "uid": "politica-002",
-    "updateDate": "2026-10-09T04:30:14.0Z",
+    "updateDate": "2026-10-10T04:30:15.0Z",
     "titleText": "Política",
-    "mainText": "Política. Piden investigar amenazas a Keiko Fujimori. Piden investigar amenazas a Keiko Fujimori",
-    "redirectionUrl": "http://peru21.pe/politica/piden-investigar-amenazas-keiko-fujimori/"
+    "mainText": "Política. Poder Judicial levanta la orden de impedimento de salida del país contra Pedro Pablo Kuczynski. Esta decisión se toma luego de se archivara el proceso penal que se le seguía al expresidente por presuntos aportes irregulares a su campaña del 2016.",
+    "redirectionUrl": "https://rpp.pe/politica/judiciales/pedro-pablo-kuczynski-poder-judicial-levanta-la-orden-de-impedimento-de-salida-del-pais-contra-el-expresidente-noticia-1711771"
+  },
+  {
+    "uid": "politica-003",
+    "updateDate": "2026-10-10T04:30:15.0Z",
+    "titleText": "Política",
+    "mainText": "Política. Estas son las cortitas de hoy viernes 9 de octubre de 2026. Estas son las cortitas de hoy viernes 9 de octubre de 2026",
+    "redirectionUrl": "http://peru21.pe/politica/estas-son-las-cortitas-de-hoy-viernes-9-de-octubre-de-2026/"
   }
 ]
