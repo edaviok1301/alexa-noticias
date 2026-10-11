@@ -1,9 +1,16 @@
 [
   {
     "uid": "gastronomia-001",
-    "updateDate": "2026-10-10T04:30:38.0Z",
+    "updateDate": "2026-10-11T04:30:35.0Z",
     "titleText": "Gastronomía",
-    "mainText": "Gastronomía. Premios SUMMUM 2026: Punto Café se consagra como la mejor cafetería de especialidad del Perú (VIDEO). Premios SUMMUM 2026: Punto Café se consagra como la mejor cafetería de especialidad del Perú",
-    "redirectionUrl": "http://peru21.pe/gastronomia/premios-summum-2026-punto-cafe-se-consagra-como-la-mejor-cafeteria-de-especialidad-del-peru/"
+    "mainText": "Gastronomía. El Chato, el restaurante de Colombia que puso la pata de gallina a la alta cocina y conquistó Latinoamérica. Fuimos hasta Bogotá, Colombia, para conocer de cerca la propuesta de El Chato, galardonado restaurante a cargo del chef Álvaro Clavijo. A punto de cumplir 10 años desde su apertura, vive su mejor momento.",
+    "redirectionUrl": "https://elcomercio.pe/somos/gastronomia/el-chato-el-restaurante-de-colombia-que-puso-la-pata-de-gallina-a-la-alta-cocina-y-conquisto-latinoamerica-noticia/"
+  },
+  {
+    "uid": "gastronomia-002",
+    "updateDate": "2026-10-11T04:30:35.0Z",
+    "titleText": "Gastronomía",
+    "mainText": "Gastronomía. Día Nacional del Cuy: cinco platos peruanos que celebran el sabor y valor nutricional de este alimento andino. Descubre la riqueza del cuy en Perú: su valor nutricional, impacto económico en comunidades rurales y su versatilidad en la gastronomía tradicional.",
+    "redirectionUrl": "http://peru21.pe/gastronomia/dia-nacional-del-cuy-cinco-platos-peruanos-que-celebran-el-sabor-y-valor-nutricional-de-este-alimento-andino/"
   }
 ]
