@@ -1,30 +1,23 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-10-10T04:30:21.0Z",
+    "updateDate": "2026-10-11T04:30:19.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar: revisa el tipo de cambio del sábado 10 de octubre de 2026. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, sábado 10 de octubre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-a-cuanto-esta-el-tipo-de-cambio-del-sabado-10-de-octubre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Precio del dólar en Perú: consulta la cotización en compra y venta del domingo 11 de octubre. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, domingo 11 de octubre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-2026-a-cuanto-esta-el-dolar-este-domingo-11-de-octubre-tipo-de-cambio-segun-el-bcrp-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-10-10T04:30:21.0Z",
-    "titleText": "Economía",
-    "mainText": "Economía. Días no laborables por la llegada del papa León XIV en noviembre serían macrorregionales, anuncia Mincetur. El ministro Rogers Valencia señaló que se espera una decisión del Consejo de Ministros. Más de 854 mil personas se movilizarán durante la visita del sumo pontífice al Perú y Mincetur anunció nueva ruta internacional Ecuador-Chiclayo y la habilitación de viviendas para alojamiento en algunas zonas.",
-    "redirectionUrl": "https://rpp.pe/economia/economia/feriados-por-la-llegada-del-papa-leon-xiv-serian-macrorregionales-anuncia-el-mincetur-noticia-1711734"
-  },
-  {
-    "uid": "economia-003",
-    "updateDate": "2026-10-10T04:30:21.0Z",
+    "updateDate": "2026-10-11T04:30:19.0Z",
     "titleText": "Economía",
     "mainText": "Economía. Hay 217 municipios que no han ejecutado ni el 50% en el Programa Vaso de Leche. El lento avance en la ejecución del presupuesto del Programa Vaso de Leche preocupa, con muchos municipios sin gastar ni el 50% asignado.",
     "redirectionUrl": "http://peru21.pe/economia/hay-217-municipios-que-no-han-ejecutado-ni-el-50-en-el-vaso-de-leche/"
   },
   {
-    "uid": "economia-004",
-    "updateDate": "2026-10-10T04:30:21.0Z",
+    "uid": "economia-003",
+    "updateDate": "2026-10-11T04:30:19.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Carteles en locales comerciales: ¿qué puede realmente regular la municipalidad?. ¿Pueden multarte por colocar publicidad en la fachada de tu negocio? Conoce cuándo necesitas autorización y qué límites tiene la municipalidad.",
-    "redirectionUrl": "https://gestion.pe/economia/carteles-en-locales-comerciales-que-puede-realmente-regular-la-municipalidad-noticia/"
+    "mainText": "Economía. Boticas Perú, rival de Inkafarma y Mifarma, reordena su red y gira a provincias ¿cuál es su plan?. Boticas Perú cierra locales en el país y apuesta por provincias, con la meta de superar los 500 locales en 2027. Además, prepara el ingreso de su marca propia a supermercados y duplicó su stock ante El Niño.",
+    "redirectionUrl": "https://gestion.pe/economia/boticas-peru-duplica-su-stock-por-el-nino-y-reorden-su-red-con-foco-en-provincias-noticia/"
   }
 ]
