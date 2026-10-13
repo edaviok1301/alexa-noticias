@@ -1,14 +1,21 @@
 [
   {
     "uid": "tecnologia-001",
-    "updateDate": "2026-10-12T04:30:24.0Z",
+    "updateDate": "2026-10-13T04:30:24.0Z",
     "titleText": "Tecnología",
-    "mainText": "Tecnología. Microsoft y Nvidia impulsan una nueva categoría de computadoras para la IA con el superchip RTX Spark. La finalidad es preparar los equipos para la nueva era de agentes de IA y para dar potencia necesaria para soportar la IA en local. Llega con firmas como Asus, HP, Lenovo, Dell, entre otras",
-    "redirectionUrl": "https://elcomercio.pe/tecnologia/inteligencia-artificial/microsoft-y-nvidia-impulsan-una-nueva-categoria-de-computadoras-para-la-ia-con-el-superchip-rtx-spark-agentes-de-ia-asus-hp-lenovo-dell-noticia/"
+    "mainText": "Tecnología. Google lanza Fitbit Edge, una pulsera avanzada de salud con batería para una semana e IA. La pulsera incorpora mediciones preventivas de salud basadas en inteligencia artificial (IA) y una batería con hasta siete días de autonomía",
+    "redirectionUrl": "https://elcomercio.pe/tecnologia/gadgets/google-lanza-fitbit-edge-una-pulsera-avanzada-de-salud-con-bateria-para-una-semana-e-ia-noticia/"
   },
   {
     "uid": "tecnologia-002",
-    "updateDate": "2026-10-12T04:30:24.0Z",
+    "updateDate": "2026-10-13T04:30:24.0Z",
+    "titleText": "Tecnología",
+    "mainText": "Tecnología. La inteligencia artificial ya no necesitará de internet: el nuevo plan de la industria tecnológica para llevarla a tu escritorio y empresas. Grandes marcas tecnológicas impulsan computadoras capaces de ejecutar inteligencia artificial avanzada sin conexión a internet. El plan busca garantizar la privacidad de los datos, eliminar el gasto en suscripciones mensuales y permitir que los asistentes virtuales resuelvan tareas complejas directamente desde las oficinas.",
+    "redirectionUrl": "https://rpp.pe/tecnologia/mas-tecnologia/la-inteligencia-artificial-ya-no-necesitara-de-internet-el-nuevo-plan-de-la-industria-tecnologica-para-llevarla-a-tu-escritorio-y-empresas-noticia-1712222"
+  },
+  {
+    "uid": "tecnologia-003",
+    "updateDate": "2026-10-13T04:30:24.0Z",
     "titleText": "Tecnología",
     "mainText": "Tecnología. ¿Cuáles son los 3 aspectos en los que la IA puede potenciar tu marca personal? Aquí te lo contamos. Descubre cómo la inteligencia artificial puede potenciar tu marca personal analizando logros, acelerando propuestas y adaptando formatos sin perder autenticidad.",
     "redirectionUrl": "http://peru21.pe/tecnologia/cuales-son-los-3-aspectos-en-los-que-la-ia-puede-potenciar-tu-marca-personal-aqui-te-lo-contamos/"
