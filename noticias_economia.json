@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-10-12T04:30:19.0Z",
+    "updateDate": "2026-10-13T04:30:19.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar en Perú hoy, lunes 12 de octubre: cuál es el tipo de cambio del día. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 12 de octubre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-cuanto-esta-el-dolar-este-lunes-12-de-octubre-tipo-de-cambio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Precio del dólar del martes 13 de octubre: revisa el tipo de cambio vía SUNAT. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, martes 13 de octubre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-a-cuanto-esta-el-tipo-de-cambio-del-martes-13-de-octubre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-10-12T04:30:19.0Z",
+    "updateDate": "2026-10-13T04:30:19.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Perú elevaría en 50% su aporte al FMI: BCRP busca autorización del Congreso para aumentar cuota a más de US$ 2.700 millones. Un proyecto de ley firmado por Julio Velarde y presentado a la Cámara de Diputados plantea aumentar en unos US$903 millones la cuota peruana en el Fondo Monetario Internacional. El BCRP asumiría las operaciones financieras, sin generar un gasto directo para el presupuesto público, y el país elevaría su acceso potencial a recursos del organismo.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/bcrp-busca-autorizacion-del-congreso-para-elevar-aporte-al-fmi-con-mas-de-2700-millones-de-dolares-como-se-financiara-noticia-1712197"
+  },
+  {
+    "uid": "economia-003",
+    "updateDate": "2026-10-13T04:30:19.0Z",
     "titleText": "Economía",
     "mainText": "Economía. Hay 217 municipios que no han ejecutado ni el 50% en el Programa Vaso de Leche. El lento avance en la ejecución del presupuesto del Programa Vaso de Leche preocupa, con muchos municipios sin gastar ni el 50% asignado.",
     "redirectionUrl": "http://peru21.pe/economia/hay-217-municipios-que-no-han-ejecutado-ni-el-50-en-el-vaso-de-leche/"
   },
   {
-    "uid": "economia-003",
-    "updateDate": "2026-10-12T04:30:19.0Z",
+    "uid": "economia-004",
+    "updateDate": "2026-10-13T04:30:19.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Carteles en locales comerciales: ¿qué puede realmente regular la municipalidad?. ¿Pueden multarte por colocar publicidad en la fachada de tu negocio? Conoce cuándo necesitas autorización y qué límites tiene la municipalidad.",
-    "redirectionUrl": "https://gestion.pe/economia/carteles-en-locales-comerciales-que-puede-realmente-regular-la-municipalidad-noticia/"
+    "mainText": "Economía. AMSAC adjudica proyecto Quiulacocha a Cerro de Pasco Resources del Perú. La empresa pública Activos Mineros S.A.C. (AMSAC) adjudicó la buena pro de la subasta pública para el reaprovechamiento de los relaves del Proyecto Quiulacocha a Cerro de Pasco Resources del Perú S.A.C. (CPR).",
+    "redirectionUrl": "https://gestion.pe/economia/empresas/amsac-adjudica-proyecto-quiulacocha-a-cerro-de-pasco-resources-del-peru-noticia/"
   }
 ]
