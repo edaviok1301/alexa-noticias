@@ -1,23 +1,16 @@
 [
   {
     "uid": "tecnologia-001",
-    "updateDate": "2026-10-13T04:30:24.0Z",
+    "updateDate": "2026-10-14T04:30:28.0Z",
     "titleText": "Tecnología",
-    "mainText": "Tecnología. Google lanza Fitbit Edge, una pulsera avanzada de salud con batería para una semana e IA. La pulsera incorpora mediciones preventivas de salud basadas en inteligencia artificial (IA) y una batería con hasta siete días de autonomía",
-    "redirectionUrl": "https://elcomercio.pe/tecnologia/gadgets/google-lanza-fitbit-edge-una-pulsera-avanzada-de-salud-con-bateria-para-una-semana-e-ia-noticia/"
+    "mainText": "Tecnología. León XIV fue operado de cáncer de pulmón: qué implica la extirpación de un lóbulo y cómo es la recuperación. El pontífice fue operado con éxito de un cáncer de pulmón. Dos especialista explica en qué consiste la intervención y qué tratamientos pueden requerirse.",
+    "redirectionUrl": "https://elcomercio.pe/tecnologia/ciencias/leon-xiv-fue-operado-de-cancer-de-pulmon-que-implica-la-extirpacion-de-un-lobulo-y-como-es-la-recuperacion-apuesplan-noticia/"
   },
   {
     "uid": "tecnologia-002",
-    "updateDate": "2026-10-13T04:30:24.0Z",
+    "updateDate": "2026-10-14T04:30:28.0Z",
     "titleText": "Tecnología",
-    "mainText": "Tecnología. La inteligencia artificial ya no necesitará de internet: el nuevo plan de la industria tecnológica para llevarla a tu escritorio y empresas. Grandes marcas tecnológicas impulsan computadoras capaces de ejecutar inteligencia artificial avanzada sin conexión a internet. El plan busca garantizar la privacidad de los datos, eliminar el gasto en suscripciones mensuales y permitir que los asistentes virtuales resuelvan tareas complejas directamente desde las oficinas.",
-    "redirectionUrl": "https://rpp.pe/tecnologia/mas-tecnologia/la-inteligencia-artificial-ya-no-necesitara-de-internet-el-nuevo-plan-de-la-industria-tecnologica-para-llevarla-a-tu-escritorio-y-empresas-noticia-1712222"
-  },
-  {
-    "uid": "tecnologia-003",
-    "updateDate": "2026-10-13T04:30:24.0Z",
-    "titleText": "Tecnología",
-    "mainText": "Tecnología. ¿Cuáles son los 3 aspectos en los que la IA puede potenciar tu marca personal? Aquí te lo contamos. Descubre cómo la inteligencia artificial puede potenciar tu marca personal analizando logros, acelerando propuestas y adaptando formatos sin perder autenticidad.",
-    "redirectionUrl": "http://peru21.pe/tecnologia/cuales-son-los-3-aspectos-en-los-que-la-ia-puede-potenciar-tu-marca-personal-aqui-te-lo-contamos/"
+    "mainText": "Tecnología. Bill Gates LANZA GRAVE ADVERTENCIA: Este es mayor riesgo de la IA. Bill Gates advierte sobre el creciente riesgo de ciberataques potenciados por IA y urge a una respuesta global coordinada para proteger la seguridad digital.",
+    "redirectionUrl": "http://peru21.pe/tecnologia/bill-gates-lanza-grave-advertencia-este-es-mayor-riesgo-de-la-ia/"
   }
 ]
