@@ -1,30 +1,23 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-10-17T04:30:19.0Z",
+    "updateDate": "2026-10-18T04:30:17.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar en Perú: cierre del tipo de cambio del viernes 16 de octubre. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, viernes 16 de octubre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-2026-a-cuanto-esta-el-dolar-este-viernes-16-de-octubre-tipo-de-cambio-segun-el-bcrp-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Precio del dólar en Perú: cuál fue el tipo de cambio del sábado 17 de octubre. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, sábado 17 de octubre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-sabado-17-de-octubre-a-cuanto-esta-el-dolar-y-tipo-de-cambio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-10-17T04:30:19.0Z",
-    "titleText": "Economía",
-    "mainText": "Economía. Indecopi advierte que sanciones a comercios que rechacen pagos con billetes o monedas alcanzan hasta las 450 UIT. Ante cualquier negativa injustificada, los ciudadanos tienen el derecho de exigir el libro de reclamaciones y presentar una denuncia formal ante la institución.",
-    "redirectionUrl": "https://rpp.pe/economia/economia/indecopi-advierte-sanciones-a-comercios-no-pueden-rechazar-pagos-con-billetes-o-monedas-noticia-1713055"
-  },
-  {
-    "uid": "economia-003",
-    "updateDate": "2026-10-17T04:30:19.0Z",
+    "updateDate": "2026-10-18T04:30:17.0Z",
     "titleText": "Economía",
     "mainText": "Economía. Produce no autoriza la segunda temporada de pesca de anchoveta. El Ministerio de la Producción de Perú suspende la temporada de pesca de anchoveta para proteger su sostenibilidad ante condiciones biológicas adversas.",
     "redirectionUrl": "http://peru21.pe/economia/produce-no-autoriza-la-segunda-temporada-de-pesca-de-anchoveta/"
   },
   {
-    "uid": "economia-004",
-    "updateDate": "2026-10-17T04:30:19.0Z",
+    "uid": "economia-003",
+    "updateDate": "2026-10-18T04:30:17.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Sunat va tras S/ 1,060 millones de deuda tributaria: ¿a quiénes interviene en Lima?. La Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat) inició una campaña de cobranza coactiva para recuperar S/ 1,060 millones en deudas tributarias pendientes de 1,354 contribuyentes con domicilio fiscal declarado en Lima.",
-    "redirectionUrl": "https://gestion.pe/economia/sunat-va-tras-s-1060-millones-de-deuda-tributaria-a-quienes-interviene-en-lima-noticia/"
+    "mainText": "Economía. La tercera cadena de boticas tras Inkafarma y Mifarma llevará marca propia a Wong y Metro. Boticas Perú cierra locales en el país y apuesta por provincias, con la meta de superar los 500 locales en 2027. Además, prepara el ingreso de su marca propia a supermercados y duplicó su stock ante El Niño.",
+    "redirectionUrl": "https://gestion.pe/economia/boticas-peru-duplica-su-stock-por-el-nino-y-reorden-su-red-con-foco-en-provincias-noticia/"
   }
 ]
