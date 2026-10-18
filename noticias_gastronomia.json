@@ -1,7 +1,14 @@
 [
   {
     "uid": "gastronomia-001",
-    "updateDate": "2026-10-17T04:30:36.0Z",
+    "updateDate": "2026-10-18T04:30:34.0Z",
+    "titleText": "Gastronomía",
+    "mainText": "Gastronomía. Chakana: el nuevo espacio en Barranco que combina cervezas, coctelería y cocina. En Barranco, la cocina de Leonardo Fassioli, los cócteles de André Querol y la cerveza de Silvia de Tomás comparten mesa. El reto es que ninguno se coma al otro.",
+    "redirectionUrl": "https://elcomercio.pe/somos/gastronomia/chakana-el-nuevo-espacio-en-barranco-que-combina-cervezas-cocteleria-y-cocina-noticia/"
+  },
+  {
+    "uid": "gastronomia-002",
+    "updateDate": "2026-10-18T04:30:34.0Z",
     "titleText": "Gastronomía",
     "mainText": "Gastronomía. Día Mundial del Pan: Perú cuenta con alrededor de 400 variedades y una tradición milenaria. Descubre la rica tradición del pan en Perú, con cerca de 400 variedades únicas que reflejan la diversidad cultural y gastronómica del país.",
     "redirectionUrl": "http://peru21.pe/gastronomia/dia-mundial-del-pan-peru-cuenta-con-alrededor-de-400-variedades-y-una-tradicion-milenaria/"
