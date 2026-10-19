@@ -1,14 +1,21 @@
 [
   {
     "uid": "politica-001",
-    "updateDate": "2026-10-18T04:30:11.0Z",
+    "updateDate": "2026-10-19T04:30:11.0Z",
     "titleText": "Política",
-    "mainText": "Política. Facultades legislativas: Senado sigue sin alcanzar consenso y debate continúa entrampado. El pedido de facultades legislativas del Ejecutivo continúa entrampado en el Senado por falta de consenso. La Comisión de Constitución, presidida por Carlos Mesía, busca una salida tras la falta de quórum y las discrepancias sobre los cambios al predictamen. El Gobierno insiste en que las 20 facultades aprobadas por la Cámara de Diputados son insuficientes para enfrentar la inseguridad y el fenóme",
-    "redirectionUrl": "https://elcomercio.pe/politica/facultades-legislativas-senado-sigue-sin-alcanzar-consenso-y-debate-continua-entrampado-apuesplan-noticia/"
+    "mainText": "Política. Ministro Luis Dyer sobre debate de facultades: “No les interesa y a ellos hay que responsabilizarles de esta situación”. El ministro de Salud, Luis Dyer, consideró que la demora en el Senado sobre la delegación de facultades solicitada por el Poder Ejecutivo demuestra que a un sector de la izquierda “no le interesa” el país y dijo que se debe responsabilizarla de esta situación ad portas de la llegada del Fenómeno El Niño.",
+    "redirectionUrl": "https://elcomercio.pe/politica/gobierno/ministro-luis-dyer-sobre-debate-de-delegacion-de-facultades-no-les-interesa-y-a-ellos-hay-que-responsabilizarles-de-esta-situacion-comision-de-constitucion-senado-congreso-apuesplan-ultimas-noticia/"
   },
   {
     "uid": "politica-002",
-    "updateDate": "2026-10-18T04:30:11.0Z",
+    "updateDate": "2026-10-19T04:30:11.0Z",
+    "titleText": "Política",
+    "mainText": "Política. Ministro Luis Dyer sobre intensidad del fenómeno de El Niño: \"Nos espera realmente una situación terrible\". El ministro de Salud, Luis Dyer, advirtió que, de acuerdo a las proyecciones científicas, el fenómeno de El Niño estará \"por encima de cualquier expectativa que podíamos tener\" y pidió a la población evacuar zonas de riesgo.",
+    "redirectionUrl": "https://rpp.pe/politica/gobierno/luis-dyer-sobre-el-meganino-en-peru-fenomeno-de-el-nino-traera-desbordes-e-impacto-extremo-noticia-1713299"
+  },
+  {
+    "uid": "politica-003",
+    "updateDate": "2026-10-19T04:30:11.0Z",
     "titleText": "Política",
     "mainText": "Política. Keiko Fujimori llegó a Piura para supervisar obras de prevención ante el fenómeno de El Niño. Keiko Fujimori llegó a Piura para supervisar obras preventivas ante El Niño. También prevé verificar los avances de proyectos en La Libertad.",
     "redirectionUrl": "http://peru21.pe/politica/keiko-fujimori-supervisa-prevencion-ante-el-nino-en-piura-y-la-libertad/"
