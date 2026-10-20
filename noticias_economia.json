@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-10-19T04:30:17.0Z",
+    "updateDate": "2026-10-20T04:30:18.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar en Perú: cierre del domingo 18 de octubre. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, domingo 18 de octubre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-domingo-18-de-octubre-a-cuanto-esta-el-dolar-y-tipo-de-cambio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Reforma del sector petrolero: Qatar Energy, Total y otras petroleras top miran el Perú, ¿qué nuevos proyectos de petróleo y gas asoman?. El Minem lanza reforma regulatoria para el sector hidrocarburos. Este año ingresarían nuevos jugadores, entre ellas petroleras globales como Total, Petrobras y Qatar Energy, además de la egipcia Cheiron, adelanta Perú-Petro.",
+    "redirectionUrl": "https://elcomercio.pe/economia/dia-1/petroleo-gas-nuevos-proyectos-de-petroleo-y-gas-la-apuesta-del-gobierno-por-la-exploracion-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-10-19T04:30:17.0Z",
+    "updateDate": "2026-10-20T04:30:18.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Gobierno presenta proyecto de Ley MAPE para cerrar el Reinfo y crear el Formape: nueva entidad de formalización minera. Proyecto de ley presentado a la Cámara de Diputados plantea que el Reinfo termine el 31 de diciembre y los 30,000 mineros de este régimen pasen a uno nuevo, denominado de \"consolidación\", hasta junio del 2028.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/gobierno-presenta-proyecto-de-ley-mape-para-cerrar-el-reinfo-y-crear-el-formape-nueva-entidad-de-formalizacion-minera-noticia-1713435"
+  },
+  {
+    "uid": "economia-003",
+    "updateDate": "2026-10-20T04:30:18.0Z",
     "titleText": "Economía",
     "mainText": "Economía. Produce no autoriza la segunda temporada de pesca de anchoveta. El Ministerio de la Producción de Perú suspende la temporada de pesca de anchoveta para proteger su sostenibilidad ante condiciones biológicas adversas.",
     "redirectionUrl": "http://peru21.pe/economia/produce-no-autoriza-la-segunda-temporada-de-pesca-de-anchoveta/"
   },
   {
-    "uid": "economia-003",
-    "updateDate": "2026-10-19T04:30:17.0Z",
+    "uid": "economia-004",
+    "updateDate": "2026-10-20T04:30:18.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Indecopi eliminó 4,619 barreras burocráticas el primer semestre. El Indecopi consiguió la eliminación o inaplicación de 4,619 barreras burocráticas ilegales o carentes de razonabilidad durante el primer semestre del año. Según la entidad, estas medidas generaron un ahorro estimado de más de S/29 millones para ciudadanos y empresas.",
-    "redirectionUrl": "https://gestion.pe/economia/indecopi-elimino-4619-barreras-burocraticas-el-primer-semestre-noticia/"
+    "mainText": "Economía. Norky’s le sube el fuego a su expansión: abrirá en el Rímac y apunta a estas tres regiones. Tras un 2026 que superó sus proyecciones, la cadena de pollerías Norky’s ya tiene fecha para su próxima apertura en Lima. Estos son sus planes para 2027 dentro y fuera del Perú.",
+    "redirectionUrl": "https://gestion.pe/economia/empresas/pollerias-en-lima-norkys-alista-su-regreso-a-la-expansion-y-prueba-un-nuevo-formato-de-atencion-noticia/"
   }
 ]
