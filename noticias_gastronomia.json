@@ -1,7 +1,14 @@
 [
   {
     "uid": "gastronomia-001",
-    "updateDate": "2026-10-20T04:30:34.0Z",
+    "updateDate": "2026-10-21T04:30:36.0Z",
+    "titleText": "Gastronomía",
+    "mainText": "Gastronomía. Fairfield by Marriott Lima Miraflores: seis años impulsando la hospitalidad, crecimiento y una renovada propuesta culinaria. Fairfield by Marriott Lima Miraflores celebra su sexto aniversario consolidando su modelo de negocio en la capital, en un periodo marcado por el crecimiento e innovación y su experiencia Rooftop 128.",
+    "redirectionUrl": "https://elcomercio.pe/gastronomia/fairfield-by-marriott-lima-miraflores-celebra-6-anos-en-el-peru-y-renueva-su-oferta-gastronomica-noticia/"
+  },
+  {
+    "uid": "gastronomia-002",
+    "updateDate": "2026-10-21T04:30:36.0Z",
     "titleText": "Gastronomía",
     "mainText": "Gastronomía. Día Mundial del Pan: Perú cuenta con alrededor de 400 variedades y una tradición milenaria. Descubre la rica tradición del pan en Perú, con cerca de 400 variedades únicas que reflejan la diversidad cultural y gastronómica del país.",
     "redirectionUrl": "http://peru21.pe/gastronomia/dia-mundial-del-pan-peru-cuenta-con-alrededor-de-400-variedades-y-una-tradicion-milenaria/"
