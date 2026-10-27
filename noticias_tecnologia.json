@@ -1,14 +1,21 @@
 [
   {
     "uid": "tecnologia-001",
-    "updateDate": "2026-10-26T04:30:26.0Z",
+    "updateDate": "2026-10-27T04:30:23.0Z",
     "titleText": "Tecnología",
-    "mainText": "Tecnología. “Se ve a la IA como si fuera Dios”, advierte el escritor mexicano Jorge Volpi. El escritor mexicano plantea una nueva novela, una distopía, y la inteligencia artificial tiene un papel importante. “Ya es un instrumento del poder”, advierte Volpi, quien toma elementos reales de la política mundial",
-    "redirectionUrl": "https://elcomercio.pe/tecnologia/inteligencia-artificial/se-ve-a-la-ia-como-si-fuera-dios-advierte-el-escritor-mexicano-jorge-volpi-inteligencia-artificial-estados-unidos-donald-trump-noticia/"
+    "mainText": "Tecnología. 5 maneras en las que el \"Súper Niño\" ya está afectando el clima en América Latina y otras partes del mundo. América Latina es una de las regiones del mundo en las que los efectos del fenómeno de El Niño están siendo más evidentes y, en algunos casos, más severos.",
+    "redirectionUrl": "https://elcomercio.pe/tecnologia/actualidad/5-maneras-en-las-que-el-super-nino-ya-esta-afectando-el-clima-en-america-latina-y-otras-partes-del-mundo-noticia/"
   },
   {
     "uid": "tecnologia-002",
-    "updateDate": "2026-10-26T04:30:26.0Z",
+    "updateDate": "2026-10-27T04:30:23.0Z",
+    "titleText": "Tecnología",
+    "mainText": "Tecnología. Apple admite fallas en la pantalla plegable de un \"pequeño número de unidades\" del iPhone Duo y ofrece recambios. Tras reportes de grietas en el pliegue central de su nuevo modelo insignia, la compañía estadounidense aseguró que el problema afecta a un \"pequeño número de unidades\" de este tope de gama y derivó los casos a AppleCare.",
+    "redirectionUrl": "https://rpp.pe/tecnologia/mas-tecnologia/iphone-duo-apple-reconoce-problemas-en-su-pantalla-interna-y-ofrece-recambio-con-applecare-noticia-1714563"
+  },
+  {
+    "uid": "tecnologia-003",
+    "updateDate": "2026-10-27T04:30:23.0Z",
     "titleText": "Tecnología",
     "mainText": "Tecnología. EE. UU. alerta sobre dos fallas críticas en PHP que ponen en riesgo a millones de sitios web. La NSA alerta sobre vulnerabilidades críticas en PHP que ponen en riesgo millones de servidores web. Actualiza tus sistemas para proteger tus datos.",
     "redirectionUrl": "http://peru21.pe/tecnologia/eeuu-alerta-sobre-dos-fallas-criticas-php-riesgo-millones-de-sitios-web/"
