@@ -1,23 +1,30 @@
 [
   {
     "uid": "economia-001",
-    "updateDate": "2026-10-26T04:30:19.0Z",
+    "updateDate": "2026-10-27T04:30:18.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. Precio del dólar en Perú: consulta la cotización en compra y venta del lunes 26 de octubre.. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, lunes 26 de octubre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
-    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-a-cuanto-esta-el-dolar-este-lunes-26-de-octubre-2026-tipo-de-cambio-segun-bcrp-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    "mainText": "Economía. Precio del dólar en Perú hoy: cuál es el tipo de cambio del martes 27 de octubre. Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, martes 27 de octubre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+    "redirectionUrl": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-a-cuanto-el-tipo-de-cambio-del-martes-27-de-octubre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
   },
   {
     "uid": "economia-002",
-    "updateDate": "2026-10-26T04:30:19.0Z",
+    "updateDate": "2026-10-27T04:30:18.0Z",
+    "titleText": "Economía",
+    "mainText": "Economía. Bolsa de Valores: desde 2027 peruanos podrán invertir directamente en acciones de Chile y Colombia. Rafael Carranza, presidente de la Bolsa de Valores de Lima, anunció que la integración bursátil de Perú, Chile y Colombia avanza hacia su implementación. La interoperabilidad permitirá a los inversionistas acceder a valores de los tres mercados a través de sus sociedades agentes de bolsa.",
+    "redirectionUrl": "https://rpp.pe/economia/economia/bolsa-de-valores-desde-2027-peruanos-podran-invertir-directamente-en-acciones-de-chile-y-colombia-noticia-1714591"
+  },
+  {
+    "uid": "economia-003",
+    "updateDate": "2026-10-27T04:30:18.0Z",
     "titleText": "Economía",
     "mainText": "Economía. Así quedó conformado el directorio del BCR con Julio Velarde a la cabeza. El Banco Central de Reserva define su directorio 2026-2031 con Julio Velarde a la cabeza y nuevos miembros elegidos por el Senado y el Ejecutivo.",
     "redirectionUrl": "http://peru21.pe/economia/asi-quedo-conformado-el-directorio-del-bcr-con-julio-velarde-la-cabeza/"
   },
   {
-    "uid": "economia-003",
-    "updateDate": "2026-10-26T04:30:19.0Z",
+    "uid": "economia-004",
+    "updateDate": "2026-10-27T04:30:18.0Z",
     "titleText": "Economía",
-    "mainText": "Economía. MEF seguirá con reforma tributaria tras El Niño: ¿qué exoneraciones le parecen correctas?. Si bien la atención económica al fenómeno El Niño (FEN) se roba hoy los reflectores por la emergencia, Elmer Cuba, ministro de Economía y Finanzas (MEF), recalcó en diálogo con Gestión que ello no quita que su cartera aún insista con implementar una reforma tributaria profunda en Perú.",
-    "redirectionUrl": "https://gestion.pe/economia/mef-seguira-con-reforma-tributaria-tras-el-nino-que-exoneraciones-le-parecen-correctas-noticia/"
+    "mainText": "Economía. Estos son los cultivos de Perú que “calientan motores” para entrar a Estados Unidos. Visita técnica de APHIS al Perú permitirá evaluar procedimientos de certificación e inspección y dar seguimiento a oportunidades de acceso de productos peruanos al mercado estadounidense.",
+    "redirectionUrl": "https://gestion.pe/economia/estos-son-los-cultivos-de-peru-que-calientan-motores-para-entrar-a-estados-unidos-la-conversacion-de-senasa-y-aphis-noticia/"
   }
 ]
